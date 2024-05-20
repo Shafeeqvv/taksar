@@ -1,0 +1,23 @@
+Video Manager
+
+
+The most advanced software tool for managing video footage, system users, and your suite of wearable cameras.
+
+This web-based back-office gives you complete control over your entire complement of VideoBadges, as well as footage from third party cameras, making the creation of evidence-ready footage fast, simple and secure.
+
+Video Manager features:
+
+Data retention controls
+Automatic configurable footage management policies protect your evidential footage, but destroy aged non-evidential video without user intervention
+
+Comprehensive audit trail
+Automatic logging actions performed, including audited access to your footage and devices. Understand all edits, viewings and shares of each piece of footage
+
+Sophisticated footage search
+VideoManager allows searching by filter for operator, date, time or VideoBadge number. Detailed thumbnail view available for rapid manual scanning of content
+
+Security access permissions
+Multiple permission groups are supplied, which can be configured to match your end-user workflow. Each level of user has access only to the tools they need
+
+RFID compatible 
+Allows rapid RFID self assignment of VideoBadge. Use RFID to ensure you know who is using your cameras and when. Perfect for pool or personal use

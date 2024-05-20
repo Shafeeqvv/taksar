@@ -1,0 +1,38 @@
+Motorola DP4000EX Series ATEX Digital Portable Two-Way Radio
+Threats from explosive gas or combustible dust, on an oil rig or in an open mine, your workers confront them daily. Safe, reliable communication is absolutely critical in such dangerous environments. 
+
+Both models are available in UHF and VHF frequency bands.
+
+The DP4401 Ex delivers unrivaled voice and data communications with integrated GPS plus best-in-class audio that includes Intelligent Audio and customizable voice announcements. It is easy to use and features up to 32 channel capacity, three programmable buttons, emergency button, mandown and lone worker functions and IP67 specifications for submersibility.
+
+The DP4801 Ex features a 5-line, full-colour display, full keypad  with day/night mode to make reading text messages easier, up to 1,000 channel capacity, five programmable buttons, emergency button, man down and lone worker functions and IP67 rating for submersibility.
+
+Product number
+DP4000EX Series 
+Best-in-class Audio - Loud front-facing speaker and Intelligent Audio feature that automatically adjusts the radio volume according the environment’s noise level
+
+Text Messaging - Send preprogrammed update messages to team members when radio communications need to be delivered without interrupting workers or guests
+
+Integrated GPS - Locate mobile work teams using integrated GPS
+
+Emergency Button - Orange button on the top of the radio can be programmed to send an alert to a supervisor or dispatcher during an emergency situation
+
+Security - Three levels of scrambling or encryption built-in for increased security: 16-bit Basic Privacy, 40-bit Enhanced Privacy or 256-bit AES256 encryption.
+
+Transmit Interrupt - Enables a user to interrupt another radio conversation to deliver critical communication exactly when and where it’s needed.
+
+IP Site Connect - A digital solution that uses the internet to extend the voice and data capabilities of MOTOTRBO. Use it to link up to 15 sites for communication among geographically dispersed locations, to create wide area coverage or enhance coverage at a single site with physical barriers
+
+Capacity Plus - Single-site digital trunking system that maximizes the capacity of your MOTOTRBO system. Use it to enable a high volume of voice and data communication for over a thousand users at a single site without adding new frequencies
+
+Linked Capacity Plus - Linked Capacity Plus is a multi-site digital trunking system for the MOTOTRBO platform. It leverages the high capacity of Capacity Plus, with the wide area coverage capabilities of IP Site Connect to keep your staff at various locations connected with an affordable high-capacity, wide-area trunking solution
+
+Rugged, Reliable Design - Tightly sealed against wind and dust, and submersible in up to one meter of water for 30 minutes (IP67 rated).
+
+Productivity-enhancing Data Applications - Features the industry’s largest Application Developer Programme to enable a wide variety of customized applications including: location tracking, email gateways, dispatch, telephony, man-down and work order ticket management
+
+ATEX/IEC EX Cerified - Certified to the highest level for use in potentially explosive environment
+
+Large, Full-colour Display - Features a 5-line colour display with a flexible menu-driven interface. Icons and large easy-to-use navigation buttons ease message reading and menu navigation. *DP4801Ex Only
+
+Day/Night Mode on Display - This display has improved resolution for easier viewing even in broad daylight. It also also features a night mode that makes the screen easier to read in dark environments. *DP4801Ex Only

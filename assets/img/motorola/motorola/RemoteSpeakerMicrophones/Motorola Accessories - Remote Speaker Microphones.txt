@@ -1,0 +1,26 @@
+Motorola Accessories - Remote Speaker Microphones
+Remote Speaker Microphones (RSMs) can provide improved audio performance and convenient access to key radio controls.
+
+
+RSMs make portable radios easier, safer and more effective to use
+• Basic RMSs combine a loudspeaker, microphone and Push-To-Talk (PTT) button with a clip to hold them in place
+• Advanced RSMs include extra functionality; emergency and programmable buttons, volume controls or earpiece connector.
+
+Windporting (Motorola exclusive)
+• Improves voice clarity by reducing the effect of wind noise and preventing rain from clogging your microphone
+
+IMPRES audio (motorola exclusive)
+• Optimizes performance, suppresses background noise and improves voice intelligibility
+• Smoothes out changes in voice level so the receiver experience consistent audio level
+
+Noise cancellation
+• Uses directional microphones to help eliminate low frequency background noise such as the rumbling of machinery. The microphone samples ambient noise received at the back of the RSM and subtracts it from the voice plus noise signal from the front of the RSM, reducing background noise and making it easier to hear messages clearly
+
+
+Industrial noise cancellation -INC (Motorola exclusive)
+• New class of RSM designed for extreme noise environments
+• Uses two directional microphones of the front face of the RSM plus Digital Signal Processing to capture voice and eliminate extreme ambient noise
+
+ATEX RSMs
+• With the EU, radio equipment used within potentially explosive environments must meet the ATEX directives
+• Only Motorola ATEX RSMs have been tested and certified with the radio to ensure compliance with the requirements

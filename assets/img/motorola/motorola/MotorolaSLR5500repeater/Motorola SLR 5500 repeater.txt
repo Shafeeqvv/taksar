@@ -1,0 +1,27 @@
+Motorola SLR 5500 repeater
+The SLR 5500 represents a huge leap forward in design and technology. Based on a wealth of field experience, customer feedback and technological innovation, the product delivers outstanding performance and efficiency for your business two-way radio system. From rock-solid reliability to clever touches like an integrated battery charger, the SLR 5500 is truly the next generation in repeaters. 
+
+Danimex has developed a unique duplexer dock for the SLR 5500 REPEATER to integrate a duplex filter directly into the same casing as the SLR 5500 REPEATER, making mounting solution easier for wall, desk and rack.
+
+Product number
+SLR5500 
+
+
+High performance
+The SLR 5500 is designed to offer round-the-clock reliable operation, even at its continuous full transmit power of 50W. The high-quality design has been validated through Motorola’s Accelerated Life Testing (ALT) programme, and meets stringent quality criteria.
+
+To deliver reliable coverage throughout your business premises, the product has a next-generation receiver design, with high sensitivity and improved noise blocking. Combined with the 50W transmit output power and digital error correction, this gives you clear voice quality, even in the most adverse conditions.
+
+The SLR 5500 supports the full MOTOTRBO feature set, and is compatible with all the MOTOTRBO system architectures: single site conventional, IP Site Connect, Capacity Plus (single- and multi-site), Capacity Max and Connect Plus. The IP interface allows you to build applications and consoles directly into your system
+
+
+High efficiency
+The latest RF technology gives the SLR 5500 exceptionally good power efficiency. Together with its space-efficient 1U height and low thermal footprint, it gives you a very low cost of ownership.
+
+The product has simple servicing requirements, with field-replaceable Power Amplifier, Power Supply and Modem modules. A front panel USB port allows easy configuration, with optional support for remote management. It also has built-in features such as a 3A battery charger, external alarm ports and an auxiliary power output to ease site installation.
+
+The standard warranty is 2 years, and can be enhanced with Service from the Start: a full service support programme that protects your hardware investment with prioritised expert repair, proactive technical support, software updates and more.
+
+
+Designed for the future
+Motorola is committed to supporting you with even more sophisticated workforce communication solutions as your needs evolve, so the SLR 5500 is designed with the future in mind. Compared to first generation repeaters, it has 10x more processing power, 15x more memory and 125x more data storage. The architecture even has provision for expansion modules, should more functionality be required in the future.

@@ -1,0 +1,33 @@
+Voting Repeaters
+Voting repeater adds 100W simulated power to portables
+
+Motorola has produced an answer to a problem, which has been troubling designers of networks for digital mobile radios. The solutions is as simple as the problem is basic and fundamental. Since simple solutions work better and tend to be cheaper to implement, we are quite thrilled at Danimex. You should be excited too.
+
+The problem
+
+A VHF/UHF repeater will typically reach from 30 km to close to 100 km depending on geographic conditions.
+
+However, portable or mobile radios in the field will only be able to maintain 2-way communication within their very limited broadcast range. With power limited to 5W, their reach is no match to that of a 100W repeater. Hence they need to stay close to base.
+Motorola's solution
+
+The solution is to pick up the transmission in the field and relay it to the main repeater.
+
+This task is given to a secondary repeater, dispatched wisely close to the perimeter of the main repeater's reach. Acting as a satellite to the main repeater, it works in receive-only mode and forwards the signal by IP, which can be in the form of a fixed line or a PTP microwave connection.
+
+In order to provide reasonable coverage within the transmission footprint of the main repeater, a number of satellite repeaters may work together as the extended "ears" of the main repeater. 
+The voting process
+
+The coverage of satellite repeaters may overlap. If there is overlap, the main repeater will receive a transmission from a portable or mobile radio via more than one satellite repeater simultaneously. 
+
+In this case, voting software imbedded in the mail repeater will decide which signal is best suited to be used. Hence the main computer is called a "Voting Computer", if fitted with this option.
+
+To the personnel roaming the countryside, this will give them freedom to move across a much larger area than before - without losing radio contact.
+
+Their handheld or vehicle mounted radios will act as if they were fitted with mighty 100w transmitters.
+Scalability
+
+Digital voting is available in the following system configurations:
+• Digital Conventional Single Site
+• IP Site Connect (IPSC)
+• Capacity Plus
+• Linked Capacity Plus (LCP

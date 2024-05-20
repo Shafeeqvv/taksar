@@ -1,0 +1,60 @@
+Motorola MTM5000 Series TETRA mobile radios
+The MTM5000 Series TETRA mobile radio are packed with features which have become essential for safe and effective operations, as well as significant improvements in areas such as audio and ruggedness. Our next generation audio architecture delivers the loudest and clearest audio performance of any Motorola TETRA mobile available in the market.
+
+The MTM5400 includes high power modes and the Gateway Repeater functionality features required by a number of end users.
+
+The MTM5500 is a highly flexible and capable system radio which permits the installation of multiple control heads up to 40m from the radio on a train or boat. The new Telephone Style Control Head provides an alternative method to control the radio and make voice and data calls.
+
+
+Extended operational range:
+
+    Up to 10W transmit power, with class leading receiver sensitivity delivers comprehensive network coverage
+    Integrated DMO Gateway, DMO Repeater capabilities, ensure secure and resilient communications where needed most
+
+
+Superior audio performance:
+
+    Next generation audio architecture delivering the loudest and clearest audio performance of any Motorola TETRA mobile available on the market* (*assuming the appropriate audio accessory is used)
+
+
+High speed data connectivity:
+
+    TEDS Ready hardware - with a simple software license upgrade, enables 20x faster data connectivity for accessing back-office systems and databases
+    Integrated USB 2.0 PEI, enabling rapid radio programming and standardized interfacing to data terminals and accessories. For additional flexibility, USB host and slave modes are also supported
+
+
+Low user migration costs:
+
+    Familiar cellular style user interface and VGA colour display for enhanced usability and reduced staff training costs
+    Same intuitive user interface as latest MTP3000 Series and MTP6000 Series TETRA portable radios
+    Re-use of common accessories using GCAI connector
+
+
+Enchanced end to end Encryption options
+
+    Integrated hardware for SIM-based end-to-end encryption 
+    Universal Crypto Module option
+
+
+Advanced Terminal Management
+
+    USB 2.0 interface for fast radio programming via Motorola’s Integrated Terminal Management solution
+
+ 
+
+
+Flexible installation options
+
+    Fully DIN-A compatible and available in Dash, Desk, Remote Head and Motorcycle mount formats
+    Supports multiple control heads - an ideal solution for installations in trains, ambulances and fire vehicles where more than one control point might be required
+    Supports multiple transceivers - an ideal solution for multiple agency, joint operations, or multi-task communications including bilateral such as cross-border operations
+    MTM5500 ethernet style connections enable up to 40m separation to either the new ReCH Control Head or the TSCH (IP55)
+    Other Equipment Manufacturer (OEM) control head solutions can be developed using the Remote Display Controls (RDC) protocols
+
+
+Rugged design with exceptional reliability
+
+    Includes IP67 control head option (MTM5200/5400), for exposed and challenging environments
+    Front and Rear rugged GCAI connector for reliable connection of audio and data peripheral equipment
+    Mobile radio and accessories are performance matched for enhanced reliability
+

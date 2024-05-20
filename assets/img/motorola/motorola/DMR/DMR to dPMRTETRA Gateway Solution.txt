@@ -1,0 +1,17 @@
+DMR to dPMR/TETRA Gateway Solution
+Simple solutions to bridge between DMR and other radio networks
+
+Our two solutions cover:
+
+- DMR to dPMR
+- DMR to TETRA
+
+There are many options for connecting DMR to other radio networks, the vast majority are based around dispatcher solutions.
+
+These solutions by nature allow one side of the connection to be fully managed whereas the ‘other’ radio side is hard-programmed. This as a result can be an expensive solution without the full range of features.
+
+The real requirement/day to day usage between the two networks is a connection between SMT and/or similar groups.
+
+So to address this, Danimex has developed a simple “back 2 back gateway” solution that will allow two groups to be in effect virtually hardwired together, thus enabling a seamless GROUP 2 GROUP call between key users.
+
+If other groups are required more gateways can be added without problems.

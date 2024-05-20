@@ -1,0 +1,17 @@
+Motorola DP3000e Series
+The DP3000e Series is designed for the mobile professional who needs effective communications. With a compact design and high-performance integrated voice and data, these next-generation radios deliver comprehensive connectivity to your organisation.
+
+The DP300e Series includes:
+DP3441e: Non-display, UHF and VHF
+DP3661e: 5-line colour display, UHF and VHF
+
+Product number
+DP3000e Series 
+Agile
+The MOTOTRBO DP3000e Series is a tough and compact ETSI DMR Standards compliant digital radio. Its small form factor makes it conveniently portable, with an effi cient short antenna that won’t get in your way. It’s tested to military standards for extreme ruggedness, and is rated IP68 for almost complete immunity to dust and water. It won’t let you down even in harsh environments.
+
+Connected
+The DP3000e Series delivers operations-critical voice and data communications. Bluetooth® audio lets you talk without wires, integrated Wi-Fi® enables remote software updates, and indoor and outdoor locationtracking capabilities give you total visibility of your resources. The full-colour display model provides easy viewing of additional information such as contact lists, text messages and radio status. With support for trunking as well as legacy analogue technology, you can keep your organisation connected as it grows.
+
+Safe
+Safeguard your staff with responsive push-to-talk technology. The prominent orange emergency button on the DP3000e Series summons help with one touch, using Transmit Interrupt to clear a channel when necessary. An integrated accelerometer senses if you’ve fallen, and can initiate a call for assistance.

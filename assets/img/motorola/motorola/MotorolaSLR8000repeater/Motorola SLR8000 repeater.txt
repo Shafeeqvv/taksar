@@ -1,0 +1,15 @@
+Motorola SLR8000 repeater
+The MOTOTRBO SLR 8000 Series Repeater delivers high performance, high reliability two-way radio service, optimised for your workplace. With its small outline and high reliability, it’s engineered for low cost of ownership. And with a huge leap forward in technology, it represents the next generation in repeaters.
+
+
+Next-generation MOTOTRBO Repeater
+The SLR 8000 Series represents a huge leap forward in design and technology. Based on a wealth of field experience, customer feedback and technological innovation, it delivers outstanding performance and reliability for your business two-way radio system. From an efficient modular design to flexible installation options, the SLR 8000 Series is truly the next generation in repeaters.
+
+High Reliability
+The SLR 8000 Series offers round-the-clock reliable operation, even at its continuous full transmit power of 100W. The high-quality design has been validated through Motorola’s Accelerated Life Testing (ALT) program, and meets stringent quality criteria. SLR 8000 has a next-generation receiver design, with high sensitivity and improved noise blocking, so you can be confident of clear voice quality, even in the worst conditions.
+
+High Performance
+With its 100W transmitter output and high sensitivity receiver, the SLR 8000 Series delivers radio coverage to an enormous area. The efficient modular design only requires 2U of rack space, and has very low power consumption, yielding low cost of ownership. The SLR 8000 Series supports the full MOTOTRBO feature set and is compatible with all the MOTOTRBO system architectures. The IP interface allows you to build applications and consoles directly on your system.
+
+Total Flexibility
+The SLR 8000 Series can be customized to suit your operation. There are options for an internal preselector amplifier and antenna relay module, offering you a true one-box installation. You can also opt for an internal wireline card if you need tone control capabilities, four-wire audio and additional external inputs

@@ -1,0 +1,23 @@
+Motorola ST7500 Compact TETRA radio
+Compact - Capable - Future ready
+The ST7500 TETRA radio is frontline ready, combining a small but rugged design with mission-critical performance. Easy to wear and easy to use.
+
+ 
+
+The ST7500 is a compact TETRA radio that weighs less than 200 grams, making it easy to carry and easy to wear in a variety of belt or body-worn configurations.
+
+Despite its size, performance is mission-critical with leading-edge features such as Multi-Band Compression for loud and clear audio, a hybrid antenna and the latest Bluetooth® 4.1 LE technology for collaborating with a range of complementary devices and wireless accessories.
+ 
+Highlights
+
+Easy to carry, easy to wear - With a compact form factor and low weight of less than 200g, the ST7500 redefines the rules for public safety radios – without compromising robustness or performance. It’s easy to carry and wear without getting caught in cables or uniforms thanks to a very short external antenna, made possible by the proprietary internal hybrid antenna technology.
+
+Built for the frontline - The radio has high receiver sensitivity and 1.8 Watt transmission power. It features the latest Global Navigation Satellite System (GNSS) technology and supports all of today’s navigation constellations, allowing command and control to constantly track public safety responders.
+
+Robust design - Built to MIL STD 810 D E F G standards, it’s ready for use in extreme environments and withstands 1.2m drops to a hard floor and vibration shocks. An IP65 and IP67 rating protects against dust, dirt, heavy rain and submersion in up to one metre of water for five minutes. With long battery life of up to 22 hours.
+
+Hear and be heard - Despite its small size, the ST7500 delivers mission-critical audio quality with low distortion and advanced noise cancelling so voice calls stay clear. An open speaker design prevents muffled sound, while Automatic Gain Control ensures audio output is maintained at a defined level so users can consistently hear clearly without adjusting volume. Multi-Band Compression is another advanced audio feature that optimises the balance between loudness and clarity, increasing signal power with minimal distortion when a volume boost is required so you can hear clearly, all the time.
+
+Easy to use - Tactile buttons for Push-to-Talk, volume control, and emergency plus three programmable buttons for most used functions, a talkgroup rocker and a simple keypad with well defined, fully protected keys and haptic feedback, allow responders to react fast in the heat of the moment – even while wearing gloves. One press of the power key lights up the white OLED display and illuminates the keypad for excellent visibility in any environment.
+
+Connect and collaborate - The radio includes a MAC13 accessory port as well as the latest Bluetooth® 4.1 LE technology to connect and collaborate with a range of complementary devices and wireless accessories, including heart monitors and sensors for enhanced safety and Bluetooth beacons for indoor location tracking.

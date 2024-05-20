@@ -1,0 +1,7 @@
+DAMM TetraFlex PTT for Android and iOS
+DAMM TetraFlex PTT is a smartphone application for secure business-critical communication across TETRA, DMR and Analog technologies – utilizing LTE or Wi-Fi. It is a low-cost alternative to expensive TETRA radios and is ideal for coverage extension. No radio gateways are required; DAMM PTT is a purely IP-based solution that operates independently of any radio infrastructure. DAMM PTT can be fully integrated into any DAMM system and can thereby be used with all DAMM TetraFlex Gateways and applications, like the Voice and Data Log System or Dispatcher.
+Applications & Gateways
+Integrated applications such as Network Management, Dispatcher, Voice & Data Log System, Enhanced Bridge, DAMM TetraFlex PTT application for smart devices, as well as a large selection of gateways
+
+Unlimited application integration
+DAMM TetraFlex® supports gateways for easy access via the Application Programming Interface (API), Packet Data Gateway, Voice Gateway and Logging API. This allows you to easily connect to third-party or customized applications.

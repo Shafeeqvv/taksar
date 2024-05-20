@@ -1,0 +1,36 @@
+Motorola EVX-261 Portable digital radio
+Make the move to digital easily and affordably.
+
+The EVX-261 operates in both analogue and digital modes, so it’s ideal for use with mixed fleets. With expanded interoperability, you can choose from multiple signalling options, including MDC1200®, DTMF, and 2-tone or 5-tone capabilities, along with voice inversion encryption. And in digital mode, enjoy noise cancellation for crisp audio and clear conversations. Available with a range of flexible energy solutions and accessories, you’ll have all you need to provide your team with the perfect communication solution.
+
+GENERAL FEATURES
+
+    Channel Capacity:
+    - 16 Channels/ 1 Group
+    2 Programmable Buttons
+    Safety Features:
+    - Lone Worker Alert
+    - Emergency Alert
+    Multiple Scan Options
+    Internal VOX (When Used with VOX Accessory)
+
+ANALOGUE MODE FEATURES
+
+    Auto Range Transponding System (ARTS™)
+
+SIGNALLING FEATURES
+
+    MDC-1200® ANI Encode
+    FleetSync® ANI Encode
+    CTCSS/DCS Encode and Decode
+    2-Tone Encode/Decode
+    5-Tone Encode/Decode
+    Remote Stun/Kill/Revive (5-Tone)
+
+DIGITAL MODE FEATURES
+
+    Direct Mode
+    Transmit Interrupt (Decode Only)
+    All Call/Group Call/Individual Call
+    Basic Privacy
+

@@ -1,0 +1,9 @@
+DAMM MultiTech Outdoor Base Station BS422
+The DAMM MultiTech Outdoor Base Station BS422 is a cross-technology one-box solution offering multiple technologies: TETRA, DMR Tier III, TEDS and Analogue. This technology-independent solution features multiple carriers as well as simulcast in one box within either UHF or VHF frequency ranges. The BS422 can be set up as a stand-alone system. It can also be seamlessly integrated into any existing DAMM single-tech network such as networks based on DAMM BS421 outdoor and/or DAMM BS418 indoor systems. The BS422 is optimized for direct outdoor mounting eliminating the need for special housing or additional cooling. Other cost-saving features include plug-and-play installation as well as an extremely low power consumption making it possible to operate on solar power.
+
+
+DAMM – critical communication made easy
+
+The DAMM system is scalable and can handle everything from one-site solutions with local coverage to large-scale multisite solutions, using any combination of outdoor and indoor single-tech and multi-tech base stations. Together with the intelligent DAMM TetraFlex® applications and gateways, simple and smooth site expansion is possible, even while in operation. 
+
+The 100% IP-based technology provides full architectural network flexibility with all network components connected in a single state-of-the-art infrastructure without the need of a central switch.

@@ -1,0 +1,36 @@
+MOTOROLA SLR 1000 Repeater
+Unlike traditional repeaters, the SLR 1000 is IP65-rated for dust and water protection, so you can deploy on campuses, in parking garages, and across other outdoor locations. The compact size gives you more installation options, such as mounting on walls or poles. And a low power, fanless design uses less space and energy, saving you money right from the start.
+
+As your organization grows, the SLR 1000 can grow with it. It works with both conventional and trunking systems supporting voice and data, so moving to a bigger system won’t always require buying a bigger repeater.
+
+ Highlights
+Protected for your environment
+Since the SLR 1000 is IP65-rated for water and dust protection, you can deploy it indoors or outdoors. Unlike traditional repeaters, you have the flexibility to use it in places like parking garages, subway tunnels, and other potentially damp and wet locations.
+Wherever it’s deployed, put your maintenance and repair worries aside. The fanless design means less noise, less particulate intrusion, and fewer components—all while delivering more coverage.
+
+Deploy in more places
+The SLR 1000 makes it simple. With a compact design, you can mount it on walls or poles. And since the SLR 1000 doesn’t require cooling from HVAC, you have more placement options. All while eliminating the planning headaches and added costs that come with HVAC.
+
+Cost-effective coverage
+The SLR 1000 features a low power, fanless design, so it uses less energy and saves money. It also requires less space, which reduces site requirements and the costly permits that go along with them.
+Want additional functionality with reduced infrastructure expenses?
+Just add accessories such as a small mountable antenna, optional duplexer, or antenna switch for Extended Range Direct Mode.
+
+Grows with you
+If you’re simply using a conventional, radio-to-radio system, you can increase your voice coverage area without having to purchase more frequencies. Just deploy the SLR 1000 with Extended Range Direct Mode, and expand range without additional spending.
+
+Unite your team
+Team Communications allows employees to communicate instantly, without boundaries, and with added intelligence across the entire organization.
+Pair MOTOTRBO products with WAVE™ push-to-talk and other data solutions to enable machines, applications and people to connect seamlessly, helping bridge the gaps so work gets done faster.
+ 
+Technical Highlights
+
+    UHF (400-527 MHz)
+    1-10W transmit power, 100% duty cycle
+    64 channels
+    Dual analogue and digital capable
+        Analogue conventional and MPT1327
+        DMR conventional, MOTOTRBO IP Site Connect, Capacity Plus, Capacity Max, Connect Plus and digital voting
+    DC input voltage 12Vdc (11.0-15.5Vdc)
+    Compact IP65 enclosure can be wall or pole mounted
+    Optional antenna, antenna switch kit, duplexer, pole mount kit, wall mount bracket and power supplies

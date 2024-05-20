@@ -1,0 +1,37 @@
+Motorola VX-2000 Series mobile analog radios
+For basic mobile communications, look to the VX-2100/2200 Series.
+
+Choose from two mobile analogue radios: the VX-2100 (without display) and VX-2200 (with display). They install easily in small spaces, and their die-cast aluminium construction helps dissipate heat and absorb vibration for added durability.
+
+The channel capacity is 8 channels for easy operation on the VX-2100 or 128 channels for large group communications on the VX-2200. And optimise your operations with multiple scanning options.
+
+GENERAL FEATURES
+
+    Compact, Durable Construction
+    Broad Channel Capacity:
+    - 128 Channels (VX-2200)
+    - 8 Channels (VX-2100)
+    6 Programmable Buttons
+    Display:
+    - 1-Character Numeric (VX-2100)
+    - 8-Character Alphanumeric (VX-2200)
+    Safety Features:
+    - Emergency Alert
+    - Lone Worker Alert
+    Scan Options:
+    - Basic
+    - Priority
+    - Dual Watch
+    - Follow-Me
+    - Follow-Me Dual Watch
+    - Talk Around
+    Busy Channel Lock Out (BCLO)
+    Busy Tone Lock Out (BTLO)
+    Time Out Timer (TOT)
+    Remote Listen
+    Programmable Minimum Volume
+    D-Sub 15 Pin Accessory Connector
+    Public Address/Horn Alert
+    Radio-to-Radio Cloning
+    Auto Range Transponding System (ARTSTM)
+

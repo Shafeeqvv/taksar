@@ -1,0 +1,30 @@
+Motorola EVX-S24 Portable digital radio
+Give your team members a compact, discreet, and lightweight radio that allows them to be comfortable in any situation.
+
+Worn on a belt, tucked away in a pocket or clipped to a lapel, the water-submersible and dust-proof EVX-S24 is designed to survive demanding conditions. It operates in both analogue and digital modes, so it’s ideal for use with mixed fleets. And in digital mode, enjoy noise cancellation for crisp audio and clear conversations.
+
+GENERAL FEATURES
+
+    Water Submersible and Dust Proof (IP67)
+    Channel Capacity:
+    - 256 Channels/ 16 Groups
+    4 Programmable Buttons
+    8 Character Alphanumeric Display
+    Safety Features:
+    - Lone Worker Alert
+    - Emergency Alert
+    Multiple Scan Options
+    Better Radio Call Quality with AMBE+2™ Vocoder
+    Battery Status Indicator (Low Battery Alert)
+    Battery Saver
+    Busy Channel Lock Out (BCLO)
+    Time Out Timer
+    Keypad Lock
+    AF Minimum Volume
+    Auto Power Off
+    Escalating Alerts
+    Low Power
+    Whisper Mode
+    RSSI Indicator
+    Internal VOX (VH-190 Required)
+

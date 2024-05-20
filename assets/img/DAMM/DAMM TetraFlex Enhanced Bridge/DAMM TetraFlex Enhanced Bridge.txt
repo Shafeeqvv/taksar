@@ -1,0 +1,7 @@
+DAMM TetraFlex Enhanced Bridge
+The DAMM TetraFlex Enhanced Bridge is a comprehensive network interconnection tool that can be used as an Inter-System Interface (ISI). It allows interoperation with a foreign system or migration of terminals from a foreign system to a DAMM system and vice versa and enables cross-system group and individual communication. The DAMM IP network works according to the TETRA standard and is thus independent of the feature set and software status of the existing system – this is superior to any standard ISI solution available on the market.
+Applications & Gateways
+Integrated applications such as Network Management, Dispatcher, Voice & Data Log System, Enhanced Bridge, DAMM TetraFlex PTT application for smart devices, as well as a large selection of gateways
+
+Unlimited application integration
+DAMM TetraFlex® supports gateways for easy access via the Application Programming Interface (API), Packet Data Gateway, Voice Gateway and Logging API. This allows you to easily connect to third-party or customized applications.

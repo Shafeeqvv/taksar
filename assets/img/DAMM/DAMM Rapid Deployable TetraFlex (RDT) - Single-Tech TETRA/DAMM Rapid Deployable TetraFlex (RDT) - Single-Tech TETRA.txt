@@ -1,0 +1,9 @@
+DAMM Rapid Deployable TetraFlex (RDT) - Single-Tech TETRA
+The RDT is a compact, lightweight unit with a low power consumption. Its internal battery offers independent power for more than two hours and can additionally be connected to solar-powered devices. Housed in a tough wheeled suitcase for maximum mobility, RDT offers a fully functional high-powered TETRA communication system that can be instantly deployed in any situation, making it ideal for disaster management, rescue operations and security services.  
+
+DAMM RDT is part of DAMM’s single-technology portfolio, but can be fully integrated into any of their multi-technology products.
+
+ 
+
+
+DAMM’s TetraFlex® system provides the most cost-effective solution, the most scalable, flexible IP infrastructure platform, easy access to highly skilled and experienced support and the full benefits of leading-edge technology. DAMM offers solutions across technologies, including TETRA, TEDS, DMR Tier III and Analogue, utilizing technologies like Wi-Fi and LTE where applicable.

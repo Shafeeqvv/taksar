@@ -1,0 +1,25 @@
+Motorola Dimetra Express
+DIMETRA Express is a complete solution for secure and reliable business and operations critical communications. It is based on proven mission-critical DIMETRA systems, the TETRA open standard for digital trunked radio technology, and the three pillars of mission-critical communications: reliability, security and capacity.
+
+DIMETRA Express has the flexibility to meet your organisation’s business needs today and can expand in capability, coverage and capacity to continue to meet your business needs as they evolve. It’s easy to add extra base radios for more capacity or additional sites to expand coverage.  
+
+Key features
+
+
+Fully integrated system
+With the switch and base radios all in one box, DIMETRA Express is easier to setup and install. It features a small physical footprint, so it requires less space and power, and has fewer components. The result? You reduce total cost of ownership, and focus on your business instead of your communications system
+
+Simple, intuitive setup
+We’ve made DIMETRA Express easy to set up, configure, and install, so you can get your teams going faster. In fact, you can now deploy the system in less than 15 minutes with a simple installer. Using a single IP address, you can quickly integrate DIMETRA Express into your existing network. And with bulk provisioning of subscribers, you can set up radio users in no time. What’s more, DIMETRA Express is ready for the future. All it takes is a single click to upgrade the system software.
+
+Robust, reliable communications
+Robust, reliable, and now in a single box, you can depend on DIMETRA communications to be there for your team when they’re needed the most. As a world leader in TETRA, we offer a comprehensive portfolio of solutions that are integrated and tested together—from switches and base stations to radios and accessories. Our aim is to provide you with peace of mind through world-class product quality and support.
+
+Full TETRA capability
+Organisations today demand more than just talk. They require many types of voice and data communications to get the job done. That’s why DIMETRA Express enables voice, short data, and telephony services. You get loud and clear voice communications for safe day-to-day operations. Text messaging for times when your team needs quick information. And the ability to make VoIP telephone calls outside the network, such as calls to other locations or organisations, senior management, or emergency services.
+
+Web-based applications
+Network management is easy using web-based tools, including a system health monitor and simple dispatch application. All you need is a PC or tablet running Android™ or Windows® and a browser. Then enjoy support for web-based text messaging, which allows teams to send short or pre-set messages that boost efficiency in the field.
+
+Expandable, flexible architecture
+DIMETRA Express is designed to expand as your needs do. Easily add base radios to a site and get additional channels for more capacity. Or add another site to broaden your coverage area. You can even deploy the system as a temporary solution—whether for an event or in an emergency—changing frequencies and adding new subscribers so radios stay connected and working. 

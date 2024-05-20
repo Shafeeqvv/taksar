@@ -1,0 +1,10 @@
+Damm TetraFlex Network Management
+DAMM TetraFlex Network Management (NM) provides a user-friendly and highly flexible tool for management, supervision and optimisation of the DAMM TetraFlex Network consisting of DAMM single-tech and/or multi-tech products. With the NM, correct operation of the whole network can be checked at any time to support high reliability and service for network users. A summarized list of statuses and alarms is automatically displayed and updated for all nodes in the system ready for detailed analysis. The NM application also allows backup and update of new software versions to all nodes in the system in one single process.
+
+FEATURES
+
+Applications & Gateways
+Integrated applications such as Network Management, Dispatcher, Voice & Data Log System, Enhanced Bridge, DAMM TetraFlex PTT application for smart devices, as well as a large selection of gateways
+
+Unlimited application integration
+DAMM TetraFlex® supports gateways for easy access via the Application Programming Interface (API), Packet Data Gateway, Voice Gateway and Logging API. This allows you to easily connect to third-party or customized applications.

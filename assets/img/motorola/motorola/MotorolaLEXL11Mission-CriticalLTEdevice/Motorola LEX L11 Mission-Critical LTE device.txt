@@ -1,0 +1,41 @@
+Motorola LEX L11 Mission-Critical LTE device
+Made for the mission ahead
+
+The LEX L11 is designed with first responders in mind, it is rugged, easy to operate and has loud and clear audio.
+
+This device performes in the harshest environments, it exceeds the MIL-STD-810G standard for drop and shock resting and is certified at IP67 rating meaning it can withstand complete water immersion for up to 30 minutes at a depth of one meter without any physical or performance damage.
+
+KEY FEATURES
+
+Intuitive controls make operation natural
+• Dedicated Push-To-Talk Button
+• Dedicated Emergency Button
+• Dedicated Talkgroup Rocker Switch
+• Two Programmable Buttons
+
+Best-in-class audio quality and performance
+• Noise and Echo Cancellation
+• Dual Front Facing Loud Speakers
+• Howling Suppression
+• Holster with Audio Tunneling Technology
+
+Outperforms even in the harshest environments
+• MIL-STD-810G For Drop and Shock
+• IP-67 Waterproof From Inside Out
+
+End-to-end secure mobile platform
+• Mobile Device Management
+• Secure Boot, Integrity Monitoring, and Device Malware Blocking
+• FIPS-140-2 Level 3 Validated
+
+Radio collaboration
+• Remote Control Radio’s Zones, Channels and Volume
+• Emergency Button Activation
+• Speak Directly Into LEX L11 Over the LMR Network
+
+Accessories suit
+• Standard and High Capacity Battery Options
+• Field Swappable Battery
+• Fast Charging
+• Holsters, Vehicle and Desktop Cradles, Single
+• and Multi Unit Chargers and 3.5 mm Headsets 

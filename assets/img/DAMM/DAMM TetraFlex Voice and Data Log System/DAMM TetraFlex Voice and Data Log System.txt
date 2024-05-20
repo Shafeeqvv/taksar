@@ -1,0 +1,7 @@
+DAMM TetraFlex Voice and Data Log System 
+The DAMM TetraFlex® Voice and Data Log System instantly provides comprehensive and accurate voice and data recording facilities as well as a wide range of logging facilities for Call Data Records (CDR) and is the ideal tool to reconstruct emergency incidents. The Voice and Data Log System includes multi-technology support – making it possible to run a mix of TETRA, DMR and analogue technologies with one log system.
+Applications & Gateways
+Integrated applications such as Network Management, Dispatcher, Voice & Data Log System, Enhanced Bridge, DAMM TetraFlex PTT application for smart devices, as well as a large selection of gateways
+
+Unlimited application integration
+DAMM TetraFlex® supports gateways for easy access via the Application Programming Interface (API), Packet Data Gateway, Voice Gateway and Logging API. This allows you to easily connect to third-party or customized applications.

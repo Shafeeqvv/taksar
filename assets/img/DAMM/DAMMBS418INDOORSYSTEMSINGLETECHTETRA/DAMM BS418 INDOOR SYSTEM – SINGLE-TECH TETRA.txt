@@ -1,0 +1,9 @@
+DAMM BS418 INDOOR SYSTEM – SINGLE-TECH TETRA
+The DAMM BS418 Indoor System is contained in a 19” rack and can be configured with up to 16 TETRA carriers in two racks, giving in total 64 time slots with access to all field replaceable units and terminals from the front. Excellent receiver sensitivity is achieved with the Tower Mounted Amplifier/Duplexer (TMA/TMD) by eliminating receiver cable loss. In addition, when used as a TMD it gives the possibility to operate with dual diversity using only two antennas.
+
+The DAMM BS418 Indoor System is also available as a high-power solution.
+
+DAMM BS418 is part of DAMM’s single-technology portfolio, but can be fully integrated into any of their multi-technology products.
+
+
+DAMM’s TetraFlex® system provides the most cost-effective solution, the most scalable, flexible IP infrastructure platform, easy access to highly skilled and experienced support and the full benefits of leading-edge technology. DAMM offers solutions across technologies, including TETRA, TEDS, DMR Tier III and Analogue, utilizing technologies like Wi-Fi and LTE where applicable.

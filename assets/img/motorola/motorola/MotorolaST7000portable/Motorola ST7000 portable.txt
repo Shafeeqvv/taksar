@@ -1,0 +1,17 @@
+Motorola ST7000 portable
+The ST7000 small TETRA radio combines a compact and elegant form, simple user interface and clear audio to exceed these needs. Integrated Bluetooth® 4.0 wireless technology, a reversible USB-C connector for charging and a 3.5mm audio connector help make the ST7000 a flexible, modern communications tool that allows users to focus on what matters most - the customer or situation and not the device.
+
+Features:
+
+    Small and elegant design
+    Simple and intuitive user interface
+    Vibrate alert and haptic feedback for discreet use
+    White OLED screen with touch UI for easy navigation
+    Loud and clear audio
+    3.5 mm audio connector for maximum accessory compatibility
+    Reversible USB-C connector for flexible charging and programming
+    Enhanced coverage with 1.8W transmit power
+    Durable with IP54 and MIL-STD 810 F/G rating
+    Long-life battery with up to 19 hours of use
+    Integrated Bluetooth 4.0 wireless technology
+    GPS, BeiDou and GLONASS for location services
