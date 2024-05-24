@@ -4916,10 +4916,10 @@ ul {
 .single-course-inner {
   -webkit-box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.05);
           box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.05);
-  border-radius: 5px;
+  border-radius: 25px;
   padding: 20px;
-  margin-bottom: 20px;
-  height: 100%;
+  margin-bottom: 10px;
+  height: 96%;
 }
 .single-course-inner .thumb {
   position: relative;
@@ -4974,9 +4974,11 @@ ul {
 }
 .single-course-inner p{
  font-size: 12px;
+ text-align: justify;
 }
 .single-course-inner a{
  font-size: 12px;
+ color:#e20613;
 }
 
 .course-slider-1 .owl-stage-outer {

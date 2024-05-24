@@ -1,0 +1,6 @@
+Codan tactical HF radio series
+The Codan tactical communication radio series offers clear and dependable High Frequency (HF) digital voice and data communications so you have the confidence to communicate anywhere and anytime without the need for existing infrastructure.
+
+A true software-defined radio (SDR), delivers new capabilities to the radio through software upgrades so you’ll always have access to tomorrow’s features today. No matter what your communication scenario, Codan has you covered scalable mobile and base station solutions — all in an affordable platform.
+
+With Ethernet and USB connectivity, a large high-resolution colour display, and multi-language user interface — combined with legendary Codan performance, reliability and support.

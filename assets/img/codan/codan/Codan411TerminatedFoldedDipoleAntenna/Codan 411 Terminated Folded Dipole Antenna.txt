@@ -1,0 +1,17 @@
+Codan 411 Terminated Folded Dipole Antenna
+The Code 411 Terminated Folded Dipole Antenna is a 2-wire antenna designed for broadband operation in fixed stations.
+
+Separate variations are available to support power levels of 125 or 1000 W. The Code 411 Antenna can be mounted horizontally between two support systems, or as an inverted “V” using a single central support mast.
+
+Performance 
+The Code 411 Antenna provides excellent performance for short to medium distance HF communications. It is offered in a range of lengths to suit installation requirements. To optimise the antenna for Near Vertical Incidence Skywave (NVIS) propagation use an inverted V configuration or adjust the installed height above ground. 
+ 
+Antenna model 
+The model of Code 411 Antenna should be selected to suit the application depending on the required power rating and the maximum amount of available space to install it. As a general rule the radiation efficiency of the Code 411 Antenna increases with antenna
+length so it is recommended to select the longest variant that will suit available space. 
+ 
+Easy to install 
+The Code 411 Antenna is supplied completely assembled and ready for installation. Installation hardware includes 60 m of high quality UV resistant rope and pulley as well as easy to understand installation instructions. A range of coaxial cable lengths and types are available but are ordered separately. Codan also has a large range of mast options that are suitable for use with the Code 411 Antenna. 
+ 
+Up to 1000 W RF power rating 
+Separate variations are available to support power levels of 125 or 1000 W

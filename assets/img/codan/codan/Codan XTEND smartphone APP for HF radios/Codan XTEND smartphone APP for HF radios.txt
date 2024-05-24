@@ -1,0 +1,19 @@
+Codan XTEND smartphone APP for HF radios
+Codan’s XTEND app allows you to operate your Codan Envoy radio via your smartphone or tablet.
+
+XTEND enables the user to operate the connected radio in all commonly used voice modes and also for text based messaging. Remote GPS position data received from other HF stations may also be quickly and easily displayed on the smartphone Google maps application.
+
+With the combination of a carefully designed UI running on a familiar smartphone format the XTEND app is intuitive to use and requires little to no training, simplifying HF communications.
+
+
+
+Message threads
+Text messages are displayed in an easy to read thread format, with the ability to send GPS position and quickly resend undelivered messages if needed. All Codan message call types, including Convoy web message/SMS and 3G ALE SMS are supported through the XTEND application.
+
+Google Maps integration
+Online access to Google maps is supported if the device using XTEND has internet access. XTEND has the ability to support a cached version of Google maps if the Internet or cellular coverage is not available. XTEND can receive HF asset GPS position calls and emergency calls and quickly translate the GPS position to Google maps, providing quick and accurate positional awareness.
+
+Secure Communications
+If the Codan radio connected to XTEND requires a user PIN, XTEND will be controlled using the same PIN. This provides a valuable level of access control in addition to the standard Wi-FI network password protection.
+
+Using XTEND, the voice encryption mode can be toggled ON/OFF without the need to use the radio handset or console. The vocoder rate of digital voice encryption can also be set within XTEND.

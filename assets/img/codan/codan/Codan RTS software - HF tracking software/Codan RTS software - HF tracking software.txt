@@ -1,0 +1,13 @@
+Codan RTS software - HF tracking software
+Codan’s RTS software combined with Codan HF radio and GPS technology provides an effective means to locate, track and manage remote assets.
+
+It is an economical solution when compared to subscription-based tracking and asset management solutions, with no ongoing airtime costs. The RTS software is an ideal solution for remote offline applications, whilst still providing access to online map resources when internet connectivity is available.
+
+
+    Simple user interface with clear graphical representations for effective asset identification and management.
+    Automatic and scheduled position acquisition of a large number of mobile assets and full integration with multiple HF linking protocols to ensure seamless acquisition of position data.
+    Accurate trace tracking of historical routes for multiple assets.
+    Enhanced situational awareness by using audio-visual warnings for proximity detection and unauthorised entry/exit from designated zones.
+    Wide range of interface connection support including USB, Ethernet and Wi-Fi to suit all possible installations.
+    Accurate logging of asset position data and trigger events and exporting journey statistics to standard file formats.
+

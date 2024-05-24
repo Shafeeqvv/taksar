@@ -1,0 +1,4 @@
+Codan 463 Terminated Folded Dipole Antenna
+The Code 463 Terminated Folded Dipole Antenna is a 3-wire antenna designed for broadband operation in fixed stations and has a power rating of 125 W PEP.
+
+The Code 463 Antenna can be mounted horizontally between two support systems, or as an inverted “V” using a single central support mast.

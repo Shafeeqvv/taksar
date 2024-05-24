@@ -1,0 +1,16 @@
+Codan 3212 HF Data Modem
+Codan’s 3212 HF Data Modem ensures you get connected anywhere by providing reliable, cost-effective, high speed mobile data communications in remote areas where little or no telecommunications infrastructure exists.
+
+The 3212 is based on the latest modem technology with an error-free data rate of up to 7200 bps uncompressed, typically four times faster than comparable competitors’ modems.
+
+High Performance 
+The 3212 HF Data Modem uses waveforms derived from Military Standard (MIL-STD) Waveforms. 
+ 
+Reliable Email over HF 
+With Codan’s UUPlus Email for HF software, the 3212 provides an easy and reliable means to send email over HF from remote areas. 
+
+Advanced Automatic Link Establishment (ALE) Compatibility 
+When used with FED-STD-188-141B ALE, the 3212 HF Data Modem and transceiver establish the link by automatically selecting the best channel, link quality and data rate. 
+ 
+Ethernet & RS232 Interfaces 
+Modem control is provided through a configurable Ethernet port using either a fixed IP or DHCP addressing, or an RS232 port.

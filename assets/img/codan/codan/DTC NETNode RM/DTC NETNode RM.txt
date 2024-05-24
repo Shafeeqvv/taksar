@@ -1,0 +1,7 @@
+DTC NETNode RM
+The DTC NETNode RM is a network-enabled radio receiver designed for use in military and government applications. It is a ruggedised unit that is designed to provide reliable and secure communication in challenging environments.
+
+One of the key features of the DTC NETNode RM is its ability to connect to a wide range of radio systems, including VHF/UHF radios, HF radios, and satellite communication systems. It can also connect to other DTC NETNode units to form a mesh network, providing increased range and flexibility.
+
+Another important feature of the DTC NETNode RM is its built-in encryption and other security features. It uses advanced encryption algorithms to protect sensitive information and prevent unauthorized access. It also has a variety of other security features, including authentication and access control, to ensure that only authorised users can access the system.The DTC NETNode RM is a network-enabled radio receiver designed for use in military and government applications. It is a ruggedised unit that is designed to provide reliable and secure communication in challenging environments.
+

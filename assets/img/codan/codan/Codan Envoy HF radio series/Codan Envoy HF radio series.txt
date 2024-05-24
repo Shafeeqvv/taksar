@@ -1,0 +1,18 @@
+Codan Envoy HF radio series
+Codan’s Envoy HF Radio delivers dependable, clear, trouble free voice, instant messaging and data communications, without dependence on existing infrastructure.
+
+CODAN ENVOY™ - THE SMART RADIO
+
+The Codan Envoy smart radio series offers clear and dependable High Frequency (HF) digital voice and data communications so you have the confidence to communicate anywhere and anytime without the need for existing infrastructure.
+
+A true software-defined radio (SDR), Envoy delivers new capabilities to the radio through software upgrades so you’ll always have access to tomorrow’s features today. No matter what your communication scenario, Codan has you covered with Envoy’s scalable mobile and base station solutions — all in an affordable platform.
+
+With Ethernet and USB connectivity, a large high-resolution colour display, and multi-language user interface — combined with legendary Codan performance, reliability and support — the Envoy smart radio is the new standard for HF communications.
+ 
+Mobile System 
+
+The Envoy is quick and easy to install in a vehicle, with a space-saving design that enables you to conveniently mount the handset and RF unit separately. Envoy’s large colour screen and smart intuitive interface gives you the optimal viewing and user experience when on the move. When combined with Codan’s auto-tuning antenna solution for the best coverage and fast tuning, the Envoy is the ultimate mobile HF solution.
+ 
+Base System 
+
+Envoy is the only HF base system with a purpose-built smart desktop console that gives you maximum operational flexibility and full remote control capability of all HF radios on your network. With capability for plug-in accessories, the Envoy is the smart choice for your communications base.

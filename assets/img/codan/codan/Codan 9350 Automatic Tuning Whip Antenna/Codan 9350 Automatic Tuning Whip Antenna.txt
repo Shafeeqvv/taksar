@@ -1,0 +1,24 @@
+Codan 9350 Automatic Tuning Whip Antenna
+Codan’s internationally acclaimed 9350 Automatic Tuning Whip Antenna is designed for mobile operation with transceivers that have a large channel capacity.
+
+The 9350 Antenna is constructed to withstand harsh ﬁeld and environmental conditions. It meets or exceeds the shock and vibrations requirement for MIL-STD-810.
+
+Typically, the 9350 takes only a few seconds to tune to any frequency. It will seek the optimum tuning point for all operating conditions — this ensures the best communications possible.
+
+Rugged design 
+The 9350 Antenna is constructed to withstand harsh field and environmental conditions. It meets or exceeds the shock and vibrations requirement for MIL-STD-810. 
+ 
+Fast, optimum tuning 
+Typically, the 9350 takes only a few seconds to tune to any frequency 
+
+High radiation efficiency 
+The 9350 antenna has a comparably high rate of radiation efficiency, rated for maximum voice power of 125 watts PEP. 
+ 
+Continuous tuning 
+The whip antenna provides continuous tuning to any required frequency over the transmit/receive operating range of 2–30 MHz. 
+
+Two whips supplied 
+Two whip top sections are provided with the 9350 antenna – the primary whip encased in polyurethane covered fiberglass, and a shorter backup whip made from stainless steel. 
+ 
+Sensitive to weak signals 
+When in Scan or Free Tune Receiver mode, a broadband amplifier is activated. This makes the antenna sensitive to even the weakest signals over the entire frequency range.

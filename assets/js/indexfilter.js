@@ -11,4 +11,9 @@ window.addEventListener('DOMContentLoaded', function() {
             document.getElementById('damm').checked = true;
             document.getElementById('dammSection').style.display = 'block';
         }
+        else if(params.has('checked') && params.get('checked') === 'codan') {
+            // Check the radio button
+            document.getElementById('codan').checked = true;
+            document.getElementById('codanSection').style.display = 'block';
+        }
     });

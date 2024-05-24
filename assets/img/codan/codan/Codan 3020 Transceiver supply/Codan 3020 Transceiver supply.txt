@@ -1,0 +1,14 @@
+Codan 3020 Transceiver supply 
+The 3020 Transceiver Supply interfaces with Codan transceivers for voice, data or fax communications. It operates over a wide range of mains supply voltages, and is fully auto-ranging between 100 and 240 V nominal.
+
+Rugged design 
+The 3020 Transceiver Supply is small and lightweight, and withstands the toughest conditions. It offers input, output and thermal protection. 
+ 
+Continuous supply 
+The 3020 is capable of charging and maintaining an externally connected lead-acid battery. When used with a code 702 kit, this facility provides a continuous supply to the transceiver in the event of a mains failure. 
+
+Front panel display 
+A Bi-Colour LED and green mains switch, mounted on the front panel, provides a clear indication of the 3020’s condition. 
+
+Service and Support 
+As with all Codan equipment, the 3020 Power Supply comes with a full three year warranty and is backed by Codan’s global network of service and support centres.

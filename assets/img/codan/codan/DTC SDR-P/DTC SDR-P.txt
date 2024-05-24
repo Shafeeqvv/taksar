@@ -1,0 +1,4 @@
+DTC SDR-P
+The DTC SDR-P is a portable, compact software-defined radio (SDR) that provides high-performance radio reception in a small package. It is designed for use in a variety of applications, including military and government use as well as commercial and industrial applications.
+
+The DTC SDR-P is a powerful and versatile radio receiver that provides high performance in a compact and portable package. It is designed to meet the needs of a variety of applications, from military and government use to commercial and industrial applications.

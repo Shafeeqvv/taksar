@@ -1,0 +1,4 @@
+DTC Sentry MESH 6161
+The Sentry Mesh 6161 is a Software Defined Radio based on our highly robust MANET waveforms that have been proven in applications from Special Forces to Unmanned Systems and Covert Operations. The MeshUltaTM waveform combines efficient use of bandwidth with superior LPI/LPD performance to maximise voice and data communication effectiveness in contested environments.
+
+The standardised design of the 6161 ensures that it can be integrated with a large range of accessory devices such as audio, data, power solutions, and antennas to address current and future soldier system needs.

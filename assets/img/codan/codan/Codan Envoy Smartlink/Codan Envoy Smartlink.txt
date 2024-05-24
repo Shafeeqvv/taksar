@@ -1,0 +1,17 @@
+Codan Envoy Smartlink
+The Envoy SmartLink enables you to take advantage of the advanced IP and data capabilities of Envoy series radio. 
+
+Envoy SmartLink simplifies creation of advanced radio installations, providing network connectivity, and allowing the installation of multiple control points (handsets or consoles). This provides the ability to support multiple personnel and locations from a single Envoy RF unit.
+
+Envoy SmartLink provides an in-built 802.11 wireless access point, and two wired Ethernet ports. This provides a reliable and quick connection to Envoy for any IP connected device.
+
+Envoy SmartLink is compatible with Xtend smartphone application.
+
+Advanced system support 
+Simplifies creation of advanced radio installations, providing network connectivity, and allowing the installation of multiple control points (handsets or consoles). This provides the ability to support multiple personnel and locations from a single Envoy RF unit. 
+
+Wired and wireless IP Connectivity 
+An in-built 802.11 wireless access point and two wired Ethernet ports provide a reliable, convenient and quick connection to Envoy for any IP connected device, such as a laptop using the Envoy’s in-built data capability. 
+
+Cascadable for system expansion 
+Up to four Envoy SmartLinks can be connected to a single Envoy RF unit. This enables multiple geographically separated control points, for maximal flexibility. An in-built audio amplifier allows direct connection of loudspeaker to SmartLink, for handset applications.
