@@ -1,0 +1,6 @@
+Trbonet Mobile Client
+TRBOnet Mobile is an application for Android and iOS devices that extends MOTOTRBO to tablets and smartphones. It works like a normal radio and delivers the most important information to the user device.
+
+TRBOnet Mobile Client for Android and iOS
+
+TRBOnet Mobile Client is a feature-rich push-to-talk application for Android and iOS that extends MOTOTRBO to smartphones and tablets. It works like a traditional console with the PTT capability and delivers essential information to the user's Android or iOS device. The solution provides full integration of smartphones with MOTOTRBO radios over 3G. 4G or Wi-Fi.

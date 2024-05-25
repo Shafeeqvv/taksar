@@ -1,0 +1,48 @@
+Avigilon H5A modular camera
+The Avigilon H5A Modular camera is designed for areas with limited space or require a discreet and unobtrusive monitoring solution, such as ATMs, police interview rooms, retail checkout counters, building entrances or casino gaming tables. The camera’s flexible imager modules can easily be positioned in different orientations to help capture the most optimal view of people or scenes of interest for investigations. It comes equipped with Next-Generation Video Analytics for enhanced object detection and classification, Unusual Activity Detection, and supports Facial Recognition and Avigilon Appearance Search™ technologies to help expedite response times for critical events.
+
+
+
+5-YEAR WARRANTY
+Avigilon stands behind the quality of this product with a 5-year, industry-leading warranty
+
+
+AVIGILON APPEARANCE SEARCH™ SUPPORT
+Enables our sophisticated deep learning AI search engine that enables you to quickly locate a specific person or vehicle of interest in recorded video across an entire site within seconds
+
+
+FACIAL RECOGNITION SUPPORT
+Enables our facial recognition technology to help you identify people of interest faster with secure watch list(s) and alarms
+
+
+FIPS 140-2 COMPLIANT
+Enables the camera to be deployed at sites requiring FIPS-compliant cryptography
+
+
+H.264 AND H.265 HDSM SMARTCODEC™ TECHNOLOGIES
+Combines our newest compression technologies to maximize bandwidth and storage savings
+
+
+NEXT-GENERATION VIDEO ANALYTICS
+Expanded object classifications and more accurate detection in crowded scenes so you can detect faster
+
+
+ONVIF® COMPLIANT
+Native ONVIF Profile S and T compliance allows easy integration with existing ONVIF infrastructures and Profile G compliance supports search, playback and retrieval of recordings on the edge
+
+
+UNUSUAL ACTIVITY DETECTION
+Uses AI to notify you of unusual speed and location of people and vehicles that might otherwise otherwise have been missed
+
+
+WATER & DUST RESISTANCE
+Rated IP66* for water and dust resistance
+*Available on Micro Bullet Imager Module only
+
+
+WIDE DYNAMIC RANGE
+Captures details in scenes with both very bright and very dark areas
+
+
+WIDE TEMPERATURE RANGE
+Operates continuously in extreme temperatures from -10 °C to +60 °C (14 °F to 140 °F)

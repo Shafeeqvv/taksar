@@ -1,0 +1,16 @@
+Avigilon presence detector (APD)
+The Avigilon Presence Detector (APD) is a small form-factor impulse radar device, with self-learning radar analytics that scans, learns and continuously adapts to the environment. This enables it to provide extremely high accuracy in detecting the presence of a person at distances up to 9 meters (30 feet) from the sensor, even if the object is hidden or obstructed by objects such as blankets, cardboard, wood and drywall.
+
+
+
+Impulse Radar Technology
+Effectively detects people even when they are not moving while also being able to detect fine motion, such as breathing, to alert you of the presence of a person.
+
+Complete Privacy
+Using radar technology for detection, the APD ensures complete privacy as it does not capture or display items such as ATM keypads or faces.
+
+Easy-to-install
+Low profile and discreet design easily blend into its surroundings. Available in surface and wall mount options, the APD uses standard IP security camera infrastructure and cabling for easy installation.
+
+VMS Integration
+Integrates with Avigilon Control Center™ video management software to provide accurate alarm notifications of important events so that you can take action.

@@ -1,0 +1,47 @@
+Avigilon H4SL camera line
+Built on the Avigilon H4 platform, the H4 SL camera line combines exceptional image quality, efficient bandwidth management, and artificial intelligence (AI) to provide a high-quality surveillance solution at an entry-level price point. The cameras are easy to install, decreasing installation time by up to 50 percent.
+
+
+
+ADAPTIVE IR
+Automatically adjusts IR beam width and exposure settings based on scene conditions to help maximize image quality
+
+EXPANDABLE STORAGE
+Slot for either SD or MicroSD memory prevents loss of recorded video during network or server interruptions
+
+HDSM SMARTCODEC™ TECHNOLOGY
+Optimizes compression levels for regions in a scene to help maximize bandwidth savings, helping to keep internet connectivity costs down
+
+HIGH DEFINITION STREAM MANAGEMENT (HDSM)™ TECHNOLOGY
+Provides maximum image detail while minimizing bandwidth usage, helping to keep internet connectivity costs down
+
+INTEGRATED IR ILLUMINATORS*
+Integrated IR LEDs provide uniform illumination, even in complete darkness
+* IR models are optional
+
+LICENSE PLATE RECOGNITION COMPATIBLILITY
+Works with ACC™ software for accurate license plate capture at a range of distances and speeds
+
+LIGHTCATCHER™ TECHNOLOGY
+Offers exceptional detail in areas with low lighting
+
+MODULAR DESIGN
+Simple and intuitive to install so that you can be up and running in minutes
+
+MULTIPLE FORM FACTORS
+Offers the flexibility to choose a form factor that works best for your application for ease of installation
+
+ONVIF® COMPLIANT
+Built on an open platform to allow integration with other security solutions
+
+REMOTE FOCUS & ZOOM
+Once mounted and aimed, the zoom level can be adjusted and image can be focused remotely
+
+UNUSUAL MOTION DETECTION
+Uses AI to notify you of unusual events that might otherwise have been missed, offering increased situational awareness and helping you effectively monitor more cameras
+
+WEATHER & IMPACT RATED
+IP66/7 weather rating and IK10 impact rating for vandal resistance
+
+WIDE DYNAMIC RANGE
+Captures details in scenes with both very bright and very dark areas

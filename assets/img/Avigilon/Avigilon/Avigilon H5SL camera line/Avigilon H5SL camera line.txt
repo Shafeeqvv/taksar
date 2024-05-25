@@ -1,0 +1,62 @@
+Avigilon H5SL camera line
+The H5SL camera is a versatile and cost-effective security solution that is backed by an industry-leading warranty. With value and simplicity at the heart of this camera line, you will enjoy the ease of installation, flexible design features and various lens options the H5SL offers.
+
+
+
+5-YEAR WARRANTY
+Avigilon stands behind the quality of this product with a 5-year, industry-leading warranty
+
+ADAPTIVE IR
+Automatically adjusts IR beam width and exposure settings based on scene conditions to help maximize image quality
+
+AUDIO CAPABILITIES
+Available ports for external audio including sirens, microphones and/or loudspeakers for audio talk-down situations
+
+EXPANDABLE STORAGE
+Slot for either SD or MicroSD memory prevents loss of recorded video during network or server interruptions
+
+HIGH DEFINITION STREAM MANAGEMENT (HDSM)™ TECHNOLOGY
+Provides maximum image detail while minimizing bandwidth usage, helping to keep internet connectivity costs down
+
+HIGH-EFFICIENCY VIDEO CODING
+Combines HEVC/H.265 video compression with HDSM SmartCodec™ technology to substantially reduce storage and bandwidth requirements while maintaining exceptional image quality
+
+INTEGRATED IR ILLUMINATORS*
+Integrated IR LEDs provide uniform illumination, even in complete darkness
+* IR models are optional
+
+LICENSE PLATE RECOGNITION COMPATIBLILITY
+Works with ACC™ software for accurate license plate capture at a range of distances and speeds
+
+LIGHTCATCHER™ TECHNOLOGY
+Offers exceptional detail in areas with low lighting
+
+MADE TO TRUST
+We are proud to be a company that manufactures high quality products which our global customers can rely on
+
+MODULAR DESIGN
+Simple and intuitive to install so that you can be up and running in minutes
+
+MULTIPLE FORM FACTORS
+Offers the flexibility to choose a form factor that works best for your application for ease of installation
+
+MULTIPLE LENS OPTIONS
+Choose from various lens types, including long zoom, for flexible coverage options
+
+ONVIF® COMPLIANT
+Built on an open platform to allow integration with other security solutions
+
+RELAY I/O CONNECTIONS
+Configure input/output actions and alarms for fast event response
+
+REMOTE FOCUS & ZOOM
+Once mounted and aimed, the zoom level can be adjusted and image can be focused remotely
+
+UNUSUAL MOTION DETECTION
+Uses AI to notify you of unusual events that might otherwise have been missed, offering increased situational awareness and helping you effectively monitor more cameras
+
+WEATHER & IMPACT RATED
+IP66/7 weather rating and IK10 impact rating for vandal resistance
+
+WIDE DYNAMIC RANGE
+Captures details in scenes with both very bright and very dark areas

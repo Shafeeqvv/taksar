@@ -1,0 +1,12 @@
+Trbonet Indoor Positioning
+Indoor Positioning is a powerful tool used for locating and tracking your radio units when GPS is not available, or when GPS information may not be accurate, for example, because of surroundings (tall buildings, trees and so on).
+
+
+Indoor Location
+Indoor Tracking is a purchasable module for TRBOnet Enterprise and TRBOnet Plus. It has been designed to show location of MOTOTRBO radios inside buildings. However, the technology is not restricted to the indoor use only, it can be applied outdoors, when it is vital to know if a radio unit is close to a specific point. For instance, you may want to install a beacon in a bus stop to check if the bus arrives in time.
+
+At the moment, both TRBOnet Enterprise and TRBOnet Plus support two different technologies, each of them has its advantages. One of them is based on K-TERM beacons, a very robust and reliable solution for mission critical markets. On the other hand, the iBeacon technology for MOTOTRBO radios is more affordable and can be used by a wide range of customers such as shopping malls, office buildings or airports.
+
+The iBeacon MOTOTRBO solution is a most cost-effective solution for indoor tracking. It is fully compatible with new E-series MOTOTRBO radios. iBeacon is the name of a protocol based on Bluetooth LE 4.0. All the 'proximity' transmitters complying with the iBeacon protocol can be used with the new portfolio of MOTOTRBO radios. The transmitter, which is normally attached to a surface, such as a wall, broadcasts its ID to nearby portable and mobile radios. The radio measures an approximate distance to the beacon calculating the strength of the signal. The coverage area is adjustable between 1 and 70 m, you can easily configure your iBeacons using a smartphone.
+
+The Indoor Positioning module of TRBOnet Enterprise and Plus allows you to create and use custom maps, such as floor plans of shopping malls.Both 2D and 3D maps can be uploaded to TRBOnet.

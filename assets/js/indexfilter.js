@@ -16,4 +16,19 @@ window.addEventListener('DOMContentLoaded', function() {
             document.getElementById('codan').checked = true;
             document.getElementById('codanSection').style.display = 'block';
         }
+        else if(params.has('checked') && params.get('checked') === 'trbonet') {
+            // Check the radio button
+            document.getElementById('trbonet').checked = true;
+            document.getElementById('trbonetSection').style.display = 'block';
+        }
+        else if(params.has('checked') && params.get('checked') === 'thuraya') {
+            // Check the radio button
+            document.getElementById('thuraya').checked = true;
+            document.getElementById('thurayaSection').style.display = 'block';
+        }
+        else if(params.has('checked') && params.get('checked') === 'avigilon') {
+            // Check the radio button
+            document.getElementById('avigilon').checked = true;
+            document.getElementById('avigilonSection').style.display = 'block';
+        }
     });

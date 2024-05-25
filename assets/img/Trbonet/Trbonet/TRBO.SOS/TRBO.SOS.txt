@@ -1,0 +1,12 @@
+TRBO.SOS
+Panic Button on Your Smartphone
+
+This mobile application turns your Android or iOS smartphone into a personal safety device. The software has a simple and clean user interface with large programmable buttons. Designed to work in dangerous situations when every minute counts, TRBO.SOS allows you to send an alert to the dispatcher instantly. Along with a distress signal, TRBO.SOS sends information to TRBOnet about your location. Your smartphone will continue sending its location, which makes it easier for the dispatcher to track your movements until help arrives.
+
+Personal Safety App
+
+User Interface
+The UI includes up to four programmable buttons. Each button can be configured to send an alert to TRBOnet. To avoid false alarms, the user should press and hold a button to raise an alarm. You can assign one of the three available severity levels to each button. An incoming alert can trigger specific actions via the Alarm Management module. For instance, TRBOnet can activate a system bridge or broadcast a prerecorded voice message. You can add an emergency contact to your smartphone so that a simple press of the Phone Call button will dial this number when needed. The way the application appears on a user's smartphone depends on the profile his or her account is assigned to. You can have multiple profiles for different groups of users enabling or disabling particular features such as Lone Worker, Request-to-Talk or safety alarms.
+
+Safety Features
+TRBO.SOS includes advanced personal safety features like Man Down, Lone Worker and No Movement. The application supports Shake Detection, so that if you want to send an alarm all you will need to do is to shake your smartphone. If your device runs Android, you can use a V.ALRT wearable panic button. With a press of the button, the V.ALRT transmits an emergency alert via Bluetooth to your smartphone, which instantly sends an alert to the dispatcher. The same panic button can detect the Man Down event.The application also includes a feature that allows you to quickly take pictures and send them to the dispatcher. TRBOnet Enterpise and Plus 5.5 and newer are able to display the remaining battery level of all registered devices hosting TRBO.SOS.

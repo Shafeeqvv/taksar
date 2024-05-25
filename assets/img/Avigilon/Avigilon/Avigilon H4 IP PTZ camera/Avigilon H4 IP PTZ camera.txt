@@ -1,0 +1,46 @@
+Avigilon H4 IP PTZ camera
+The Avigilon H4 IR PTZ camera combines a powerful zoom lens with infrared (IR) technology to provide broad coverage and exceptional image quality, even in low-light settings. Choose either 1 MP with 45x zoom or 2 MP with 30x zoom. Both support up to 60 frames per second, and see up to 250 meters (820 feet) in complete darkness. An abrasion-resistant front lens and optional built-in silicone rubber wiper help to ensure clean, undistorted images in challenging weather conditions.
+
+
+360° VIEW
+360-degree views offer a cost-effective, easy-to-install solution providing broad coverage with fewer cameras
+
+ADAPTIVE IR
+Automatically adjusts IR beam width and exposure settings based on scene conditions to help maximize image quality
+
+AUDIO CAPABILITIES
+Available ports for external audio including sirens, microphones and/or loudspeakers for audio talk-down situations
+
+EXPANDABLE STORAGE
+Slot for either SD or MicroSD memory prevents loss of recorded video during network or server interruptions
+
+HDSM SMARTCODEC™ TECHNOLOGY
+Optimizes compression levels for regions in a scene to help maximize bandwidth savings, helping to keep internet connectivity costs down
+
+HIGH DEFINITION STREAM MANAGEMENT (HDSM)™ TECHNOLOGY
+Provides maximum image detail while minimizing bandwidth usage, helping to keep internet connectivity costs down
+
+INTEGRATED IR ILLUMINATORS*
+Integrated IR LEDs provide uniform illumination, even in complete darkness
+* IR models are optional
+
+LIGHTCATCHER™ TECHNOLOGY
+Offers exceptional detail in areas with low lighting
+
+ONVIF® COMPLIANT
+Built on an open platform to allow integration with other security solutions
+
+RELAY I/O CONNECTIONS
+Configure input/output actions and alarms for fast event response
+
+REMOTE FOCUS & ZOOM
+Once mounted and aimed, the zoom level can be adjusted and image can be focused remotely
+
+SELF-LEARNING VIDEO ANALYTICS
+Recognize threats without predefined rules to help you detect, verify and act faster
+
+WEATHER & IMPACT RATED
+IP66/7 weather rating and IK10 impact rating for vandal resistance
+
+WIDE DYNAMIC RANGE
+Captures details in scenes with both very bright and very dark areas.

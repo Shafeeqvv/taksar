@@ -1,0 +1,32 @@
+Avigilon H4 mini dome camera
+The H4 Mini Dome is the smallest and most discreet camera within the Avigilon H4 platform at an entry-level price point. It provides exceptional image quality in 1.3, 2 and 3 MP resolutions.
+
+
+
+ADAPTIVE IR
+Automatically adjusts IR beam width and exposure settings based on scene conditions to help maximize image quality
+
+HDSM SMARTCODEC™ TECHNOLOGY
+Optimizes compression levels for regions in a scene to help maximize bandwidth savings, helping to keep internet connectivity costs down
+
+HIGH DEFINITION STREAM MANAGEMENT (HDSM)™ TECHNOLOGY
+Provides maximum image detail while minimizing bandwidth usage, helping to keep internet connectivity costs down
+
+INTEGRATED IR ILLUMINATORS*
+Integrated IR LEDs provide uniform illumination, even in complete darkness
+* IR models are optional
+
+LIGHTCATCHER™ TECHNOLOGY
+Offers exceptional detail in areas with low lighting
+
+MODULAR DESIGN
+Simple and intuitive to install so that you can be up and running in minutes
+
+ONVIF® COMPLIANT
+Built on an open platform to allow integration with other security solutions
+
+UNUSUAL MOTION DETECTION
+Uses AI to notify you of unusual events that might otherwise have been missed, offering increased situational awareness and helping you effectively monitor more cameras
+
+WIDE DYNAMIC RANGE
+Captures details in scenes with both very bright and very dark areas

@@ -1,0 +1,31 @@
+Trbonet Enterprise - Control Room Solution
+TRBOnet Enterprise provides integrated fully-featured control over single and mutli-site or multi-channel systems. It supports all types of voice communication and data operations for IP Site Connect, Capacity Plus, Linked Capacity Plus, Connect Plus and Capacity Max systems by direct wireline or wireless interface with the MOTOTRBO network. TRBOnet Enterprise can be purchased from Neocom Software, while TRBOnet Plus is part of Motorola's Sold and Supported program.
+
+
+TRBOnet Enterprise is a feature-rich and robust control room solution designed to work with MOTOTRBO two-way radio systems of any size and complexity. The software was first launched in 2008, and has become one of the leading dispatch systems in the world.
+
+This state-of-the-art IP-based dispatch system offers a wide choice of additional modules, which means that it can be tailored to individual requirements. The intuitive GUI greatly reduces learning time and allows operators to concentrate on tasks that matter. The IP nature of this product makes it extremely flexible and scalable, so your system can grow up with your requirements.
+
+ 
+Main benefits of the software that makes it stand out from other solutions?
+
+Flexible System Design
+TRBOnet allows you to choose between wireline, wirless or mixed modes to connect it to your MOTOTRBO radio network.Depending on your requirements, and, of course, your budget, you may want to direct an IP interface into the radio network or use dedicated control radios for voice and data.
+
+Plug and Play
+In most cases, the software does not require a lot of configuration work and ready for use as soon as you connect your TRBOnet Server PC to the radio infrastructure. The software has an intuitive and easy-to-understand graphic interface, which eliminates any requirement for the steep learning curve.
+
+Integration
+The software provides different ways for integration with third party applications and radio platforms. You can still use your company management system that exchanges information with the TRBOnet software via TRBOnet API available for all companies using TRBOnet. Check our hardware section to explore further possibilities of the hardware integration.
+
+Built-In Vocoder
+The implication is that you don't need any USB dongles.
+
+Modularity
+You can just select modules that you require, which makes the solution really cost-effective.
+
+Free Mapping Applications
+TRBOnet supports OpenStreetMap, a free application with very detailed maps.
+
+Real Client-Server Architecture
+The Client-Server software is very flexible and allows you to create many types of networks, starting from single server centralized systems to decentralized networks with multiple servers providing redundancy. However, we strongly recommend using virtual machines for redundancy, as shown in the picture below. Please read this section for more information about different network types.

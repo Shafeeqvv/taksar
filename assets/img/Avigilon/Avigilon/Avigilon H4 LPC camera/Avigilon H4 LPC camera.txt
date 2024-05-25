@@ -1,0 +1,38 @@
+Avigilon H4 LPC camera
+For applications where it is critical to obtain character recognition at typical vehicle speeds, the Avigilon H4 LPC camera is designed to capture vehicle license plates—even in challenging lighting conditions. Using infrared illumination and visible light filtering, H4 LPC cameras enable Avigilon License Plate Recognition (LPR) analytics technology to accurately identify license plate characters from a range of distances.
+
+
+
+ADAPTIVE IR
+Automatically adjusts IR beam width and exposure settings based on scene conditions to help maximize image quality
+
+AUDIO CAPABILITIES
+Available ports for external audio including sirens, microphones and/or loudspeakers for audio talk-down situations
+
+EXPANDABLE STORAGE
+Slot for either SD or MicroSD memory prevents loss of recorded video during network or server interruptions
+
+HDSM SMARTCODEC™ TECHNOLOGY
+Optimizes compression levels for regions in a scene to help maximize bandwidth savings, helping to keep internet connectivity costs down
+
+HIGH DEFINITION STREAM MANAGEMENT (HDSM)™ TECHNOLOGY
+Provides maximum image detail while minimizing bandwidth usage, helping to keep internet connectivity costs down
+
+INTEGRATED IR ILLUMINATORS*
+Integrated IR LEDs provide uniform illumination, even in complete darkness
+* IR models are optional
+
+LICENSE PLATE RECOGNITION COMPATIBLILITY
+Works with ACC™ software for accurate license plate capture at a range of distances and speeds
+
+ONVIF® COMPLIANT
+Built on an open platform to allow integration with other security solutions
+
+RELAY I/O CONNECTIONS
+Configure input/output actions and alarms for fast event response
+
+REMOTE FOCUS & ZOOM
+Once mounted and aimed, the zoom level can be adjusted and image can be focused remotely
+
+WEATHER & IMPACT RATED
+IP66/7 weather rating and IK10 impact rating for vandal resistance

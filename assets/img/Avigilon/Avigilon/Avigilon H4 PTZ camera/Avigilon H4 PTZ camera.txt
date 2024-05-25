@@ -1,0 +1,40 @@
+Avigilon H4 PTZ camera
+Combining powerful, high-speed tracking with 360-degree coverage, the 1 MP PTZ camera offers 45x zoom while the 2 MP PTZ has a built-in 30x zoom lens for high-quality, detailed images.
+
+
+
+360° VIEW
+360-degree views offer a cost-effective, easy-to-install solution providing broad coverage with fewer cameras
+
+AUDIO CAPABILITIES
+Available ports for external audio including sirens, microphones and/or loudspeakers for audio talk-down situations
+
+EXPANDABLE STORAGE
+Slot for either SD or MicroSD memory prevents loss of recorded video during network or server interruptions
+
+HDSM SMARTCODEC™ TECHNOLOGY
+Optimizes compression levels for regions in a scene to help maximize bandwidth savings, helping to keep internet connectivity costs down
+
+HIGH DEFINITION STREAM MANAGEMENT (HDSM)™ TECHNOLOGY
+Provides maximum image detail while minimizing bandwidth usage, helping to keep internet connectivity costs down
+
+LIGHTCATCHER™ TECHNOLOGY
+Offers exceptional detail in areas with low lighting
+
+ONVIF® COMPLIANT
+Built on an open platform to allow integration with other security solutions
+
+RELAY I/O CONNECTIONS
+Configure input/output actions and alarms for fast event response
+
+REMOTE FOCUS & ZOOM
+Once mounted and aimed, the zoom level can be adjusted and image can be focused remotely
+
+SELF-LEARNING VIDEO ANALYTICS
+Recognize threats without predefined rules to help you detect, verify and act faster
+
+WEATHER & IMPACT RATED
+IP66/7 weather rating and IK10 impact rating for vandal resistance
+
+WIDE DYNAMIC RANGE
+Captures details in scenes with both very bright and very dark areas

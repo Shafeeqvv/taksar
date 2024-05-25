@@ -1,0 +1,6 @@
+Trbonet Swift IP Gateway A200
+
+The gateway supports all MOTOTRBO systems and can provide interface to analog or digital radios. It can be connected to both MOTOTRBO and certain non-MOTOTRBO gateway radios, as well as MOTOTRBO repeaters, such as DR3000 or SLR5500 working in the analogue mode.
+The Swift A200 gateway enables a system owner to connect a remote base radio to TRBOnet
+Enterprise or Plus without the need to install a computer. Depending on the system design, the
+gateway can route voice and data from and to one or many connected TRBOnet Servers over IP. 

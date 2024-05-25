@@ -1,0 +1,31 @@
+Avigilon H4 thermal camera
+
+The Avigilon H4 Thermal camera is embedded with Avigilon's self-learning video analytics to provide long-range perimeter protection and leverages thermal technology to operate under challenging conditions while minimizing false alarms.
+
+It is designed to detect the presence and movement of people and vehicles in areas with poor visibility, including partly camouflaged scenes, low lighting and even absolute darkness, without the need for additional light sources.
+
+
+
+AUDIO CAPABILITIES
+Available ports for external audio including sirens, microphones and/or loudspeakers for audio talk-down situations
+
+EXPANDABLE STORAGE
+Slot for either SD or MicroSD memory prevents loss of recorded video during network or server interruptions
+
+HDSM SMARTCODEC™ TECHNOLOGY
+Optimizes compression levels for regions in a scene to help maximize bandwidth savings, helping to keep internet connectivity costs down
+
+HIGH DEFINITION STREAM MANAGEMENT (HDSM)™ TECHNOLOGY
+Provides maximum image detail while minimizing bandwidth usage, helping to keep internet connectivity costs down
+
+ONVIF® COMPLIANT
+Built on an open platform to allow integration with other security solutions
+
+RELAY I/O CONNECTIONS
+Configure input/output actions and alarms for fast event response
+
+SELF-LEARNING VIDEO ANALYTICS
+Recognize threats without predefined rules to help you detect, verify and act faster
+
+WEATHER & IMPACT RATED
+IP66/7 weather rating and IK10 impact rating for vandal resistance

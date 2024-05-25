@@ -1,0 +1,5 @@
+Trbonet PLUS - Control Room Solution
+TRBOnet Plus is a purely IP-based dispatch application with capabilities far beyond just mere dispatch functions and features. This powerful solution enables a user to fully control and manage all available resources. The voice dispatch over IP feature is supplemented with text messaging, voice recording, telephone interconnect and many other features for much more efficient communication. Our customers may choose a single server installation or a distributed and redundant system. 
+
+
+TRBOnet Plus is compatible with any MOTOTRBO system, from a single site repeater to the largest Connect Plus or Capacity Max networks having up to 250 sites. Additionally, it is possible to connect two or more dissimilar MOTOTRBO systems to the same server to create seamless communication between users and dispatchers from different networks. The TRBOnet Plus software is a very flexible and scalable solution that enables your system to grow with your changing requirements.

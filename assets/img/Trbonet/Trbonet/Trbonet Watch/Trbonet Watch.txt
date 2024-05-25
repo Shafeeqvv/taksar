@@ -1,0 +1,9 @@
+Trbonet Watch
+Watch is a client-server application which allows you to monitor a radio network remotely, thus eliminating the necessity for on-sites visits and significantly reducing travel costs.
+
+
+
+TRBOnet™ Watch is an advanced software packet sniffer designed for logging and analyzing data streams in your MOTOTRBO™ radio networks.
+
+This solution also gives you an integrated view into the health of your network. The application monitors infrastructure resource usage and allows a user to detect topology problems and verify that all components of the system are configured correctly.
+TRBOnet™ Watch is a client-server application that does not require additional hardware and can be added to a MOTOTRBO™ radio system of any size and architecture. The server part of the application is installed on any networked computer, while client software can run on any remote computer and receives all the information about the system from anywhere over an IP connection.

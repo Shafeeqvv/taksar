@@ -1,0 +1,53 @@
+Avigilon H4 multisensor camera
+The H4 Multisensor camera line combines Avigilon self-learning video analytics with exceptional coverage, featuring three or four individually-adjustable camera sensors that can be positioned to monitor virtually any area.
+
+
+
+360° VIEW
+360-degree views offer a cost-effective, easy-to-install solution providing broad coverage with fewer cameras
+
+ADAPTIVE IR
+Automatically adjusts IR beam width and exposure settings based on scene conditions to help maximize image quality
+
+AUDIO CAPABILITIES
+Available ports for external audio including sirens, microphones and/or loudspeakers for audio talk-down situations
+
+AVIGILON APPEARANCE SEARCH™ SUPPORT
+Enables our sophisticated deep learning AI search engine that enables you to quickly locate a specific person or vehicle of interest across an entire site
+
+EXPANDABLE STORAGE
+Slot for either SD or MicroSD memory prevents loss of recorded video during network or server interruptions
+
+HIGH DEFINITION STREAM MANAGEMENT (HDSM)™ TECHNOLOGY
+Provides maximum image detail while minimizing bandwidth usage, helping to keep internet connectivity costs down
+
+HIGH-EFFICIENCY VIDEO CODING
+Combines HEVC/H.265 video compression with HDSM SmartCodec™ technology to substantially reduce storage and bandwidth requirements while maintaining exceptional image quality
+
+INTEGRATED IR ILLUMINATORS*
+Integrated IR LEDs provide uniform illumination, even in complete darkness
+* IR models are optional
+
+LIGHTCATCHER™ TECHNOLOGY
+Offers exceptional detail in areas with low lighting
+
+MODULAR DESIGN
+Simple and intuitive to install so that you can be up and running in minutes
+
+MULTIPLE LENS OPTIONS
+Choose from various lens types, including long zoom, for flexible coverage options
+
+ONVIF® COMPLIANT
+Built on an open platform to allow integration with other security solutions
+
+RELAY I/O CONNECTIONS
+Configure input/output actions and alarms for fast event response
+
+SELF-LEARNING VIDEO ANALYTICS
+Recognize threats without predefined rules to help you detect, verify and act faster
+
+WEATHER & IMPACT RATED
+IP66/7 weather rating and IK10 impact rating for vandal resistance
+
+WIDE DYNAMIC RANGE
+Captures details in scenes with both very bright and very dark areas
