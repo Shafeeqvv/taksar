@@ -23,46 +23,57 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $messageClass = 'alert-danger';
     } else {
         $email = filter_var($email, FILTER_SANITIZE_EMAIL);
-        if (!filter_var($email, FILTER_VALIDATE_EMAIL) && !empty($email)) {
+        if (!empty($email) && !filter_var($email, FILTER_VALIDATE_EMAIL)) {
             $message = "Invalid email format.";
             $messageClass = 'alert-danger';
         } else {
-            $mail = new PHPMailer(true);
-
             try {
-                //Server settings
-                $mail->isSMTP();
-                $mail->Host = 'smtp.gmail.com';
-                $mail->SMTPAuth = true;
-                $mail->Username = 'shafeeqlm11@gmail.com'; // Your Gmail address
-                $mail->Password = 'jviz ptdz gxvb bvcq'; // Your Gmail password or app-specific password
-                $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
-                $mail->Port = 587;
+                $mail = new PHPMailer(true);
+                
+                $mail->isSMTP(); // Set mailer to use SMTP
+                $mail->CharSet = "utf-8"; // Set charset to utf8
+                $mail->SMTPAuth = true; // Enable SMTP authentication
+                $mail->SMTPSecure = 'tls'; // Enable TLS encryption, `ssl` also accepted
 
-                // Enable verbose debug output
+                $mail->Host = 'smtp.gmail.com'; // Specify main and backup SMTP servers
+                $mail->Port = 587; // TCP port to connect to
+                $mail->SMTPOptions = array(
+                    'ssl' => array(
+                        'verify_peer' => false,
+                        'verify_peer_name' => false,
+                        'allow_self_signed' => true
+                    )
+                );
 
-                // Recipients
-                $mail->setFrom($email, $name);
-                $mail->addAddress('shafeeqlm11@gmail.com'); // Add a recipient
+                $mail->Username = 'shafeeqlm11@gmail.com'; // SMTP username
+                $mail->Password = 'umta mvsg eahs djmh'; // SMTP password
 
-                // Content
-                $mail->isHTML(false);
-                $mail->Subject = 'New Contact Form Submission';
-                $mail->Body    = "Type of query: $queryType\n"
-                                . "How can we help you: $help\n"
-                                . "Name: $name\n"
-                                . "Email: $email\n"
-                                . "Phone: $phone\n"
-                                . "Country: $country\n"
-                                . "Website: $website\n"
-                                . "Fax: $fax";
+                $mail->setFrom($email,$name); // Your application NAME and EMAIL
+                $mail->addAddress('shafeeqlm11@gmail.com'); // Target email
+                $mail->Subject = 'New Query from ' . $name; // Message subject
+                $mail->isHTML(true); // Set email format to HTML
 
-                $mail->send();
-                $message = "Thank you for contacting us. We will get back to you shortly.";
-                $messageClass = 'alert-success';
+                // Compose email body
+                $emailBody = "<p><strong>Name:</strong> {$name}</p>
+                              <p><strong>Email:</strong> {$email}</p>
+                              <p><strong>Phone:</strong> {$phone}</p>
+                              <p><strong>Country:</strong> {$country}</p>
+                              <p><strong>Website:</strong> {$website}</p>
+                              <p><strong>Fax:</strong> {$fax}</p>
+                              <p><strong>Query Type:</strong> {$queryType}</p>
+                              <p><strong>Help:</strong> {$help}</p>";
+
+                $mail->Body = $emailBody;
+
+                if ($mail->send()) {
+                    $message = "Your query has been sent successfully.";
+                    $messageClass = 'alert-success';
+                } else {
+                    $message = "There was an error sending your query.";
+                    $messageClass = 'alert-danger';
+                }
             } catch (Exception $e) {
-                $message = "There was an error sending your message. Please try again later.<br>";
-                $message .= "Mailer Error: " . $mail->ErrorInfo;
+                $message = "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
                 $messageClass = 'alert-danger';
             }
         }
@@ -70,6 +81,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 }
 ?>
 
-<div class="alert <?php echo $messageClass; ?>">
-    <?php echo $message; ?>
+<div class="alert <?php echo htmlspecialchars($messageClass); ?>">
+    <?php echo htmlspecialchars($message); ?>
 </div>
+
