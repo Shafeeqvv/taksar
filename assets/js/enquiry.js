@@ -68,3 +68,75 @@ window.onclick = function(event) {
         hideModal();
     }
 }
+
+
+$(document).ready(function(){
+    // Show products related to the clicked list item
+    $("#product-list li").click(function(){
+      // Hide all product items
+      $(".taksarproduct").hide();
+      
+      // Get the class of the clicked list item
+      var productClass = $(this).attr("class");
+      
+      // Show the product items corresponding to the clicked list item
+      $("." + productClass).show();
+    });
+});
+
+
+document.addEventListener("DOMContentLoaded", function() {
+            console.log("Script loaded and DOM fully loaded");
+            const params = new URLSearchParams(window.location.search);
+            const productType = params.get('type');
+            
+            if (productType) {
+                console.log("Product type:", productType);
+                const products = document.querySelectorAll('.taksarproduct');
+                products.forEach(product => {
+                    if (product.classList.contains(productType)) {
+                        product.style.display = 'block';
+                    } else {
+                        product.style.display = 'none';
+                    }
+                });
+                
+                switch (productType) {
+                    case "itaccessbackhaul":
+                        showModal("For placing orders or inquiries, kindly contact us.");
+                        break;
+                    case "antennascombiners":
+                        showModal("For placing orders or inquiries, kindly contact us.");
+                        break;
+                    default:
+                        hideModal();
+                }
+            }
+            
+            // Modal functions
+            function showModal(text) {
+                const modal = document.getElementById("myModal");
+                const modalText = document.getElementById("modalText");
+                const span = document.getElementsByClassName("close")[0];
+
+                modalText.innerText = text;
+                modal.style.display = "block";
+
+                // When the user clicks on <span> (x), close the modal
+                span.onclick = function() {
+                    modal.style.display = "none";
+                }
+
+                // When the user clicks anywhere outside of the modal, close it
+                window.onclick = function(event) {
+                    if (event.target == modal) {
+                        modal.style.display = "none";
+                    }
+                }
+            }
+
+            function hideModal() {
+                const modal = document.getElementById("myModal");
+                modal.style.display = "none";
+            }
+        });
