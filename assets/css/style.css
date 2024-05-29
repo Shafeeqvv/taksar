@@ -7403,15 +7403,18 @@ padding: 20px;
 }
 
 @media(max-width:990px){
+
   .carousel-inner {
     height: 100%;
     align-items: center; /* Center vertically */
     justify-content: center; /* Center horizontally */
   }
+
   .img-height{
     height: 100% !important;
   }
 }
+
 .carousel-item {
     transition-duration:1.5s; 
 }
