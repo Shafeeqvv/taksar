@@ -54,6 +54,13 @@ Version: 1.0.1
   --line-height30: 1.7;
 }
 
+.navbar-top ul form input
+{
+  height:25px;
+  background-color: #D3D3D3;
+  font-size: 12px;
+}
+
 
 /*modal*/
 
@@ -2101,7 +2108,7 @@ ul {
     # Nav bar 
 ----------------------------------------------*/
 .navbar-top {
-  height: 50px;
+  height: 52px;
   background: #fff;
 }
 .navbar-top ul {
@@ -2135,7 +2142,7 @@ ul {
 .navbar-top ul li p,
 .navbar-top ul li a {
   margin: 0;
-  font-size: 18px;
+  font-size: 16px;
   color: #000;
 }
 .navbar-top ul li a:hover {

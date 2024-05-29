@@ -140,3 +140,27 @@ document.addEventListener("DOMContentLoaded", function() {
                 modal.style.display = "none";
             }
         });
+
+ document.addEventListener('DOMContentLoaded', function() {
+            const searchForm = document.getElementById('searchForm');
+            const searchInput = document.getElementById('searchInput');
+            const searchButton = document.getElementById('searchButton');
+
+            searchButton.addEventListener('click', function(event) {
+                event.preventDefault(); // Prevent default behavior of anchor tag
+
+                const searchTerm = searchInput.value.toLowerCase(); // Get search term
+                const products = document.querySelectorAll('.course-title'); // Get all product titles
+
+                products.forEach(product => {
+                    const title = product.textContent.toLowerCase();
+                    const productCard = product.closest('.col-lg-4'); // Assuming product cards are wrapped in col-lg-4 elements
+
+                    if (title.includes(searchTerm)) {
+                        productCard.style.display = 'block'; // Show matching products
+                    } else {
+                        productCard.style.display = 'none'; // Hide non-matching products
+                    }
+                });
+            });
+        });

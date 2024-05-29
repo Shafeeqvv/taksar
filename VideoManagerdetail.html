@@ -26,14 +26,30 @@
                     <ul class="topbar-right">
                          <li>
                             <form>
-                                <input type="text" name="" placeholder="search..." class="form-control" style="height:25px; background-color: #D3D3D3;">
+                                <input type="text" name="searchInput" id="searchInput" placeholder="search..." class="form-control">
                             </form>
                          </li>
-                        <li><a href="#"><i class="fa fa-search"></i></a></li>
-                        <li><a href="#"><i class="fab fa-facebook"></i></a></li>
-                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                        <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
-                        <li><a href="#"><i class="fab fa-youtube"></i></a></li>
+                        <li><a href="#" id="searchButton"><i class="fa fa-search"></i></a></li>
+                        <script>
+                            document.getElementById('searchButton').addEventListener('click', function() {
+                                const query = document.getElementById('searchInput').value;
+                                if (query) {
+                                    window.location.href = 'products.html?search=' + encodeURIComponent(query);
+                                }
+                            });
+
+                            document.getElementById('searchForm').addEventListener('submit', function(event) {
+                                event.preventDefault();
+                                const query = document.getElementById('searchInput').value;
+                                if (query) {
+                                    window.location.href = 'products.html?search=' + encodeURIComponent(query);
+                                }
+                            });
+                        </script>
+                        <li><a href="https://www.facebook.com/taksar.ae/"><i class="fab fa-facebook"></i></a></li>
+                        <li><a href="https://x.com/taksar_ae"><i class="fab fa-twitter"></i></a></li>
+                        <li><a href="https://www.linkedin.com/company/102463570/"><i class="fab fa-linkedin"></i></a></li>
+                        <li><a href="https://www.instagram.com/taksar.ae/"><i class="fab fa-instagram"></i></a></li>
                     </ul>
                 </div>
             </div>

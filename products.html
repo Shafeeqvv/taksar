@@ -24,14 +24,14 @@
                     <ul class="topbar-right">
                          <li>
                             <form>
-                                <input type="text" name="" placeholder="search..." class="form-control" style="height:25px; background-color: #D3D3D3;">
+                                <input type="text" name="searchInput" id="searchInput" placeholder="search..." class="form-control">
                             </form>
                          </li>
-                        <li><a href="#"><i class="fa fa-search"></i></a></li>
-                        <li><a href="#"><i class="fab fa-facebook"></i></a></li>
-                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                        <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
-                        <li><a href="#"><i class="fab fa-youtube"></i></a></li>
+                        <li><a href="#" id="searchButton"><i class="fa fa-search"></i></a></li>
+                        <li><a href="https://www.facebook.com/taksar.ae/"><i class="fab fa-facebook"></i></a></li>
+                        <li><a href="https://x.com/taksar_ae"><i class="fab fa-twitter"></i></a></li>
+                        <li><a href="https://www.linkedin.com/company/102463570/"><i class="fab fa-linkedin"></i></a></li>
+                        <li><a href="https://www.instagram.com/taksar.ae/"><i class="fab fa-instagram"></i></a></li>
                     </ul>
                 </div>
             </div>
@@ -222,7 +222,7 @@
  
 
 <!-- motorola -->
-    <div class="course-area bg-relative pt-5 pb-5" >
+    <div class="course-area bg-relative pt-3 pb-5" >
         <div class="container">
             <div class="row">
                 <div class="col-lg-4 col-md-6 pt-3 taksarproduct motorola mobilebase gateways digitaldmr digitalradio">
@@ -2049,6 +2049,28 @@
     <!-- Include jQuery -->
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
-</body>
+    <script type="text/javascript">
+        document.addEventListener('DOMContentLoaded', function() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const searchQuery = urlParams.get('search');
 
+            if (searchQuery) {
+                const products = document.querySelectorAll('.taksarproduct');
+                let matchFound = false;
+
+                products.forEach(product => {
+                    const productName = product.querySelector('.course-title').textContent.toLowerCase();
+
+                    if (productName.includes(searchQuery.toLowerCase())) {
+                        product.style.display = 'block';
+                        matchFound = true;
+                    } else {
+                        product.style.display = 'none';
+                    }
+                });
+            }
+        });
+    </script>
+
+</body>
 </html>
