@@ -7404,12 +7404,12 @@ padding: 20px;
 
 @media(max-width:990px){
   .carousel-inner {
-    height: 50vh;
+    height: 100%;
     align-items: center; /* Center vertically */
     justify-content: center; /* Center horizontally */
   }
   .img-height{
-    height: 50vh !important;
+    height: 100% !important;
   }
 }
 .carousel-item {
