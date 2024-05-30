@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="zxx">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/animate.min.css">
+    <link rel="stylesheet" href="assets/css/fontawesome.min.css">
+    <link rel="stylesheet" href="assets/css/nice-select.min.css">
+    <link rel="stylesheet" href="assets/css/magnific.min.css">
+    <link rel="stylesheet" href="assets/css/slick.min.css">
+    <link rel="stylesheet" href="assets/css/owl.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/responsive.css">
+    <link rel=icon href="assets/img/favicon.png" sizes="10x10" type="image/png">
+
+</head>
+<body>  
+    <div class="body-overlay" id="body-overlay"></div>
+    <div class="navbar-top p-0 d-lg-block d-none">
+        <div class="container custom-container">
+            <div class="row">
+                <div class="col-lg-12 text-lg-end">
+                    <ul class="topbar-right">
+                         <li>
+                            <form id="searchForm">
+                                <input type="text" name="searchInput" id="searchInput" placeholder="search..." class="form-control">
+                            </form>
+                         </li>
+                        <li><a href="#" id="searchButton"><i class="fa fa-search"></i></a></li>
+                        <script>
+                            function handleSearch() {
+                                const query = document.getElementById('searchInput').value;
+                                if (query) {
+                                    window.location.href = 'products.html?search=' + encodeURIComponent(query);
+                                }
+                            }
+
+                            // Event listener for the search button
+                            document.getElementById('searchButton').addEventListener('click', function(event) {
+                                event.preventDefault(); // Prevent default action of anchor tag
+                                handleSearch();
+                            });
+
+                            // Event listener for form submission (including Enter key press)
+                            document.getElementById('searchForm').addEventListener('submit', function(event) {
+                                event.preventDefault();
+                                handleSearch();
+                            });
+                        </script>
+                        <li><a href="https://www.facebook.com/taksar.ae/"><i class="fab fa-facebook"></i></a></li>
+                        <li><a href="https://x.com/taksar_ae"><i class="fab fa-twitter"></i></a></li>
+                        <li><a href="https://www.linkedin.com/company/102463570/"><i class="fab fa-linkedin"></i></a></li>
+                        <li><a href="https://www.instagram.com/taksar.ae/"><i class="fab fa-instagram"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- navbar start -->
+    <nav class="navbar navbar-area navbar-area-2 navbar-expand-lg bg-gray box-shadow-2">
+        <img class="navbar-shape" src="assets/img/icon/0.png" alt="img">
+        <div class="container nav-container custom-container">
+            <div class="responsive-mobile-menu">
+                <button class="menu toggle-btn d-block d-lg-none" data-target="#itech_main_menu" 
+                aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="icon-left"></span>
+                    <span class="icon-right"></span>
+                </button>
+            </div>
+            <div class="logo">
+                <a href="index.html"><img src="assets/img/brand.webp" alt="img"></a>
+            </div>
+            <div class="collapse navbar-collapse" id="itech_main_menu">
+                <ul class="navbar-nav menu-open text-center">
+                    <li><a href="index.html">HOME</a></li>
+                    <li><a href="aboutus.html">ABOUT US</a></li>
+                    <li><a href="products.html">PRODUCTS</a></li>
+                    <li><a href="support.html">SUPPORT AND SERVICES</a></li>                           
+                    <li><a href="activity.html">ACTIVITY</a></li>
+                    <li><a href="news.html">NEWS</a></li>
+                    <li><a href="contact.html">CONTACT US</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!-- navbar end -->
+
+    <!-- team area start -->
+    <div class="team-area pd-top-90 pd-bottom-60 position-relative">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="section-title">
+                        <h6 class="sub-title text-center">Support and Services</h6>
+                        <p class="content">At Taksar, we are dedicated to providing exceptional support and services to ensure that our customers get the most out of their communication solutions. Our commitment to excellence extends beyond the initial purchase, offering comprehensive assistance and expert guidance every step of the way. Here's how we support you:</p>
+                    </div>
+                </div>
+                <div class="col-lg-12">
+                    <div class="row">
+                        <div class="col-md-3 pb-3">
+                            <div class="single-team-inner text-center">
+                                <div class="thumb">
+                                    <img src="assets/img/customer-care.png" alt="img">
+                                </div>
+                                <div class="details">
+                                    <h5>24/7 Customer Support</a></h5>
+                                    <p>Our dedicated customer support team is available around the clock to assist you with any questions or issues you may encounter.
+                                </div>
+                                <div class="popup-content">
+                                    <p>Whether you need technical assistance, have inquiries about our products, or require troubleshooting help, we are here to provide prompt and reliable support.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 pb-3">
+                            <div class="single-team-inner text-center">
+                                <div class="thumb">
+                                    <img src="assets/img/capability.png" alt="img">
+                                </div>
+                                <div class="details">
+                                    <h5>Technical Support</a></h5>
+                                    <p>Our technical support experts are highly trained and knowledgeable about all our products and services.
+                                </div>
+                                <div class="popup-content">
+                                    <p><b>We offer</b>:<br>
+                                        - Installation Assistance: Ensuring your devices and systems are set up correctly and efficiently.<br>
+                                        - Maintenance Services: Regular maintenance to keep your equipment running smoothly and prevent any potential issues.<br>
+                                        - Troubleshooting: Quick diagnosis and resolution of any technical problems you may experience.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 pb-3">
+                            <div class="single-team-inner text-center">
+                                <div class="thumb">
+                                    <img src="assets/img/creativity.png" alt="img">
+                                </div>
+                                <div class="details">
+                                    <h5>Custom Solutions</a></h5>
+                                    <p>We understand that every business has unique needs.</p>
+                                </div>
+                                <div class="popup-content">
+                                    <p>Our team works closely with you to develop custom solutions tailored to your specific requirements, ensuring that you have the right tools and systems in place to achieve your business goals.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 pb-3">
+                            <div class="single-team-inner text-center">
+                                <div class="thumb">
+                                    <img src="assets/img/presentation.png" alt="img">
+                                </div>
+                                <div class="details">
+                                    <h5>Training and Education</a></h5>
+                                    <p>To help you get the most out of your investment, we offer comprehensive training programs for your team.</p>
+                                </div>
+                                <div class="popup-content">
+                                    <p>Our training sessions cover the operation and maintenance of your devices, ensuring that your staff is well-equipped to utilize our products effectively.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 pb-3">
+                            <div class="single-team-inner text-center">
+                                <div class="thumb">
+                                    <img src="assets/img/engineer.png" alt="img">
+                                </div>
+                                <div class="details">
+                                    <h5>Warranty and Repair Services</a></h5>
+                                    <p>All our products come with a robust warranty to give you peace of mind.</p>
+                                </div>
+                                <div class="popup-content">
+                                    <p>Should any issues arise, our repair services are quick and efficient, minimizing downtime and ensuring that your communication systems are back up and running as soon as possible.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 pb-3">
+                            <div class="single-team-inner text-center">
+                                <div class="thumb">
+                                    <img src="assets/img/consult.png" alt="img">
+                                </div>
+                                <div class="details">
+                                    <h5>Consultation Services</a></h5>
+                                    <p>Our experts are available for consultations to help you choose the right products and solutions for your business.</p>
+                                </div>
+                                <div class="popup-content">
+                                    <p>We provide insightful recommendations based on your needs, ensuring that you make informed decisions that benefit your operations.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 pb-3">
+                            <div class="single-team-inner text-center">
+                                <div class="thumb">
+                                    <img src="assets/img/upgrade.png" alt="img">
+                                </div>
+                                <div class="details">
+                                    <h5>Upgrade and Replacement Services</a></h5>
+                                    <p>As technology evolves, we help you stay ahead by offering upgrade and replacement services.</p>
+                                </div>
+                                <div class="popup-content">
+                                    <p>Our team will assist you in transitioning to the latest devices and systems, ensuring that your business remains competitive and efficient.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 pb-3">
+                            <div class="single-team-inner text-center">
+                                <div class="thumb">
+                                    <img src="assets/img/team.png" alt="img">
+                                </div>
+                                <div class="details">
+                                    <h5>Community Engagement</a></h5>
+                                    <p>We believe in building strong relationships with our customers and the community.</p>
+                                </div>
+                                <div class="popup-content">
+                                    <p>Our community engagement initiatives aim to support local businesses and contribute to economic growth through reliable communication solutions.</p>
+                                </div>
+                            </div>
+                        </div>                      
+                    </div>
+                    <div class="col-lg-12">
+                        <div class="section-title">
+                            <p class="content">At Taksar, our mission is to empower you with the best communication tools and support, ensuring your business thrives in today's fast-paced world. Thank you for choosing us as your trusted partner in connectivity. For any assistance, please contact us at <b>+971 4272 2008</b> and <b>info@taksar.ae</b>.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- team area end -->
+
+
+
+
+    <!-- footer area start -->
+    <footer class="footer-area pt-0  bg-cover">
+        <div class="container">
+            <div class="row padding-element">
+                <div class="col-lg-4 col-md-6">
+                    <div class="widget widget_about">
+                        <div class="thumb">
+                            <img src="assets/img/brandw.webp" alt="img">
+                        </div>
+                     </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="widget widget_nav_menu">                        
+                        <h4 class="widget-title">UAE Office</h4>
+                        <ul>
+                            <li><i class="fas fa-map-marker-alt"></i>Al Reem Tower, Office No. M18 & M19</li>
+                            <li>Al Maktoum Road, Deira</li>
+                            <li>Dubai - UAE</li>
+                            <li>P.O Box 380093</li>
+                            <li><i class="fas fa-phone"></i>+971 4272 2008</li>
+                            <li><i class="fas fa-envelope"></i>info@taksar.ae</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                  <div class="col-md-12">
+                        <div class="justify-content-start">
+                                <h6 class="text-center"><img src="assets/img/warranty.png" style="width:10%">Certified</h6>
+                                <p>Taksar General Trading L.L.C is an authorized dealer of Motorola solutions and equipment.</p>
+                                <img src="assets/img/goldcard.webp" class="card-imgg border-box-1">
+                        </div>      
+                    </div>    
+                </div>
+        </div>
+    </footer>
+    <!-- footer area end -->
+
+
+    <!-- all plugins here -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/fontawesome.min.js"></script>
+    <script src="assets/js/magnific.min.js"></script>
+    <script src="assets/js/nice-select.min.js"></script>
+    <script src="assets/js/slick.min.js"></script>
+    <script src="assets/js/owl.min.js"></script>
+    <script src="assets/js/counter-up.min.js"></script>
+    <script src="assets/js/circle-progress.js"></script>
+    <script src="assets/js/waypoint.min.js"></script>
+    <script src="assets/js/wow.min.js"></script>
+    <script type="assets/js/bootstrap.bundle.js"></script>
+
+    <!-- main js  -->
+    <script src="assets/js/main.js"></script>
+    <script src="assets/js/indexfilter.js"></script>
+    <script src="assets/js/filter.js"></script>
+
+</body>
+</html>
