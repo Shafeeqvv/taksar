@@ -142,25 +142,35 @@ document.addEventListener("DOMContentLoaded", function() {
         });
 
  document.addEventListener('DOMContentLoaded', function() {
-            const searchForm = document.getElementById('searchForm');
-            const searchInput = document.getElementById('searchInput');
-            const searchButton = document.getElementById('searchButton');
+    const searchForm = document.getElementById('searchForm');
+    const searchInput = document.getElementById('searchInput');
+    const searchButton = document.getElementById('searchButton');
 
-            searchButton.addEventListener('click', function(event) {
-                event.preventDefault(); // Prevent default behavior of anchor tag
+    function performSearch() {
+        const searchTerm = searchInput.value.toLowerCase(); // Get search term
+        const products = document.querySelectorAll('.course-title'); // Get all product titles
 
-                const searchTerm = searchInput.value.toLowerCase(); // Get search term
-                const products = document.querySelectorAll('.course-title'); // Get all product titles
+        products.forEach(product => {
+            const title = product.textContent.toLowerCase();
+            const productCard = product.closest('.col-lg-4'); // Assuming product cards are wrapped in col-lg-4 elements
 
-                products.forEach(product => {
-                    const title = product.textContent.toLowerCase();
-                    const productCard = product.closest('.col-lg-4'); // Assuming product cards are wrapped in col-lg-4 elements
-
-                    if (title.includes(searchTerm)) {
-                        productCard.style.display = 'block'; // Show matching products
-                    } else {
-                        productCard.style.display = 'none'; // Hide non-matching products
-                    }
-                });
-            });
+            if (title.includes(searchTerm)) {
+                productCard.style.display = 'block'; // Show matching products
+            } else {
+                productCard.style.display = 'none'; // Hide non-matching products
+            }
         });
+    }
+
+    searchButton.addEventListener('click', function(event) {
+        event.preventDefault(); // Prevent default behavior of anchor tag
+        performSearch(); // Perform the search
+    });
+
+    searchInput.addEventListener('keydown', function(event) {
+        if (event.key === 'Enter') {
+            event.preventDefault(); // Prevent the form from submitting
+            performSearch(); // Perform the search
+        }
+    });
+});
