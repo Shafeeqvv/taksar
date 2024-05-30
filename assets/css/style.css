@@ -2147,11 +2147,13 @@ ul {
   left: 0;
   top: -95px;
 }
+
 .navbar-area .navbar-shape-1{
   position: absolute;
   right:0;
   top: -95px;
 }
+
 .navbar-area .nav-container {
   -webkit-transition: all 0.4s;
   transition: all 0.4s;
