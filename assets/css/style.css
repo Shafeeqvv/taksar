@@ -18,21 +18,23 @@
   font-size: 12px;
 }
 
-.popup-content {
 
+.popup-content
+{
     display: none;
     position: absolute;
-    top: 100%;
+    top: 101%;
     left: 50%;
     transform: translateX(-50%);
     width: 100%;
     max-width: 300px;
-    background-color: #fff;
+    background-color: #fafafa;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
     padding: 15px;
-    border-radius: 8px;
+    border-radius: 22px;
     z-index: 10;
     text-align: justify;
+    border: 1px solid #e3e3e3;
 }
 
 .single-team-inner:hover .popup-content {
@@ -43,6 +45,9 @@
   font-size: 12px;
 }
 
+.single-team-inner:hover{
+  background-color: #fafafa;
+}
 
 
 
@@ -7480,6 +7485,7 @@ padding: 20px;
   {
     max-width: 150px;
     padding-bottom: 0px;
+    margin-left: 3px;
   }
   .footer-area .widget_about .thumb img
   {
