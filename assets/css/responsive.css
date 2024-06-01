@@ -360,3 +360,8 @@
 		max-width: 4090px;
 	}
 }
+@media only screen and (max-width: 7680px) {
+  .custom-container {
+		max-width: 7674px;
+	}
+}
