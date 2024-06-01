@@ -13,11 +13,9 @@
 
 .navbar-top ul form input
 {
-
   height:25px;
   background-color: #D3D3D3;
   font-size: 12px;
-
 }
 
 
@@ -40,7 +38,6 @@
 }
 
 .single-team-inner:hover .popup-content {
-
     display: block;
 }
 
@@ -51,6 +48,8 @@
 .single-team-inner:hover{
   background-color: #fafafa;
 }
+
+
 
 
 /*suuport*/
