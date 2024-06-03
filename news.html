@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="zxx">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/animate.min.css">
+    <link rel="stylesheet" href="assets/css/fontawesome.min.css">
+    <link rel="stylesheet" href="assets/css/nice-select.min.css">
+    <link rel="stylesheet" href="assets/css/magnific.min.css">
+    <link rel="stylesheet" href="assets/css/slick.min.css">
+    <link rel="stylesheet" href="assets/css/owl.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/responsive.css">
+    <link rel=icon href="assets/img/favicon.png" sizes="10x10" type="image/png">
+
+</head>
+<body>  
+    <div class="body-overlay" id="body-overlay"></div>
+    <div class="navbar-top p-0 d-lg-block d-none">
+        <div class="container custom-container">
+            <div class="row">
+                <div class="col-lg-12 text-lg-end">
+                    <ul class="topbar-right">
+                         <li>
+                            <form id="searchForm">
+                                <input type="text" name="searchInput" id="searchInput" placeholder="search..." class="form-control">
+                            </form>
+                         </li>
+                        <li><a href="#" id="searchButton"><i class="fa fa-search"></i></a></li>
+                        <script>
+                            function handleSearch() {
+                                const query = document.getElementById('searchInput').value;
+                                if (query) {
+                                    window.location.href = 'products.html?search=' + encodeURIComponent(query);
+                                }
+                            }
+
+                            // Event listener for the search button
+                            document.getElementById('searchButton').addEventListener('click', function(event) {
+                                event.preventDefault(); // Prevent default action of anchor tag
+                                handleSearch();
+                            });
+
+                            // Event listener for form submission (including Enter key press)
+                            document.getElementById('searchForm').addEventListener('submit', function(event) {
+                                event.preventDefault();
+                                handleSearch();
+                            });
+                        </script>
+                        <li><a href="https://www.facebook.com/taksar.ae/"><i class="fab fa-facebook"></i></a></li>
+                        <li><a href="https://x.com/taksar_ae"><i class="fab fa-twitter"></i></a></li>
+                        <li><a href="https://www.linkedin.com/company/102463570/"><i class="fab fa-linkedin"></i></a></li>
+                        <li><a href="https://www.instagram.com/taksar.ae/"><i class="fab fa-instagram"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- navbar start -->
+    <nav class="navbar navbar-area navbar-area-2 navbar-expand-lg bg-gray box-shadow-2">
+        <img class="navbar-shape" src="assets/img/icon/0.png" alt="img">
+        <div class="container nav-container custom-container">
+            <div class="responsive-mobile-menu">
+                <button class="menu toggle-btn d-block d-lg-none" data-target="#itech_main_menu" 
+                aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="icon-left"></span>
+                    <span class="icon-right"></span>
+                </button>
+            </div>
+            <div class="logo">
+                <a href="index.html"><img src="assets/img/brand.webp" alt="img"></a>
+            </div>
+            <div class="collapse navbar-collapse" id="itech_main_menu">
+                <ul class="navbar-nav menu-open text-center">
+                    <li><a href="index.html">HOME</a></li>
+                    <li><a href="aboutus.html">ABOUT US</a></li>
+                    <li><a href="products.html">PRODUCTS</a></li>
+                    <li><a href="support.html">SUPPORT AND SERVICES</a></li>                           
+                    <li><a href="activity.html">ACTIVITY</a></li>
+                    <li><a href="news.html">NEWS</a></li>
+                    <li><a href="contact.html">CONTACT US</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!-- navbar end -->
+
+
+    <!-- news area start -->
+    <div class="blog-area pb-5 pt-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6 class="" style="color: #e20613;font-size: 18px;">Latest News</h6>
+                    <p style="font-size: 12px;text-align: justify;" class="pt-3 pb-5"><b>Welcome to the Taksar News page.</b><br><br> Your source for the latest updates, announcements, and insights from the world of communication technology. Stay informed about our latest products, services, and company initiatives, as well as industry trends and developments.</p>
+                </div>
+                <div class="col-lg-12">
+                    <div class="single-blog-inner">
+                        <div class="thumb">
+                            <img src="assets/img/blog/24.webp" alt="img">
+                        </div>
+                        <div class="details">
+                            <p class="text-center"><strong>Launch of MOTOTRBO Digital Radios</strong></p>
+                            <h2 class="title"><a href="blog-details.html">Launch of MOTOTRBO Digital Radios</a></h2>
+                            <p>We are excited to announce the launch of MOTOTRBO, the first DMR digital two-way radio system from Motorola Solutions. Designed for business-critical communication, MOTOTRBO offers unparalleled clarity, range, and reliability. Explore how this customizable solution can revolutionize your communication needs.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-12">
+                    <div class="single-blog-inner">
+                        <div class="thumb">
+                            <img src="assets/img/blog/23.webp" alt="img">
+                        </div>
+                        <div class="details">
+                            <p class="text-center"><strong>Industry Insights</strong></p>
+                            <h2 class="title">The Future of Digital Communication</h2>
+                            <p>Explore our latest article on the future of digital communication, where we delve into the advancements in digital radio technology and how it’s shaping the way businesses operate. Learn about the key trends and innovations that are driving the industry forward.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-12">
+                    <div class="single-blog-inner">
+                        <div class="thumb">
+                           <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3722695.215583585!2d51.29963822040433!3d24.331002643730557!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e48dfb1ab12bd%3A0x33d32f56c0080aa7!2sUnited%20Arab%20Emirates!5e0!3m2!1sen!2sae!4v1717417536360!5m2!1sen!2sae" width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        </div>
+                        <div class="details">
+                            <h2 class="title">Taksar Expands Services Across the UAE</a></h2>
+                            <p>In our ongoing effort to provide superior service, Taksar is expanding its operations across the UAE. Our new offices and service centers will ensure that we are closer to our customers, offering faster response times and enhanced support services.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-12">
+                    <div class="single-blog-inner">
+                        <div class="thumb">
+                            <img src="assets/img/blog/22.webp" alt="img">
+                        </div>
+                        <div class="details">
+                            <p class="text-center"><strong>Community Engagement</strong></p>
+                            <h2 class="title">Taksar’s Commitment to Corporate Social Responsibility</h2>
+                            <p>We are proud to highlight our recent community engagement projects aimed at supporting local businesses and fostering economic growth. Learn about our initiatives and how we are making a positive impact in the communities we serve.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-12">                
+                    <div class="single-blog-inner">
+                        <div class="thumb">
+                            <img src="assets/img/blog/20.webp" alt="img">
+                        </div>
+                        <div class="details">
+                            <h2 class="title">Employee Spotlight</h2>
+                            <p>Meet the dedicated team members behind Taksar’s success. In our employee spotlight series, we feature stories and insights from our talented professionals who are committed to delivering excellence in everything they do.</p>
+                        </div>
+                    </div>
+                </div>
+                 <div class="col-lg-12 pt-5">
+                    <p style="font-size: 12px;text-align: justify;">Stay connected with Taksar for more updates and insights. Follow us on social media and subscribe to our newsletter to receive the latest news directly in your inbox.Thank you for being a part of our journey towards enhancing communication and connectivity.</p>
+                    <div class="widget widget_search pt-3">              
+                        <h4 class="widget-title text-center pb-3">Subscribe to our Newsletter</h4>         
+                        <form class="search-form" action="subscribe.php" method="POST" id="subscribeForm">
+                            <div class="form-group">
+                                <input type="email" id="email" name="email" placeholder="Type your email id here..." required>
+                            </div>
+                            <button class="submit-btn" type="submit"><i class="fas fa-chevron-right"></i></button>
+                        </form>
+                    </div> 
+                    <p id="message"></p> 
+
+                    <script>
+                        document.getElementById('subscribeForm').addEventListener('submit', function(event) {
+                            event.preventDefault();
+                            
+                            const email = document.getElementById('email').value;
+                            const messageElement = document.getElementById('message');
+                            
+                            fetch('subscribe.php', {
+                                method: 'POST',
+                                headers: {
+                                    'Content-Type': 'application/x-www-form-urlencoded',
+                                },
+                                body: 'email=' + encodeURIComponent(email)
+                            })
+                            .then(response => response.text())
+                            .then(data => {
+                                messageElement.innerText = data;
+                            })
+                            .catch(error => {
+                                messageElement.innerText = 'There was an error subscribing. Please try again later.';
+                            });
+                        });
+                    </script>
+ 
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- news area end -->
+ 
+    <!-- footer area start -->
+   <footer class="footer-area pt-0  bg-cover">
+        <div class="container">
+            <div class="row padding-element">
+                <div class="col-lg-4 col-md-6">
+                    <div class="widget widget_about">
+                        <div class="thumb">
+                            <img src="assets/img/brandw.webp" alt="img">
+                        </div>
+                     </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="widget widget_nav_menu">                        
+                        <h4 class="widget-title">UAE Office</h4>
+                        <ul>
+                            <li><i class="fas fa-map-marker-alt"></i>Al Reem Tower, Office No. M18 & M19</li>
+                            <li>Al Maktoum Road, Deira</li>
+                            <li>Dubai - UAE</li>
+                            <li>P.O Box 380093</li>
+                            <li><i class="fas fa-phone"></i>+971 4272 2008</li>
+                            <li><i class="fas fa-envelope"></i>info@taksar.ae</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                  <div class="col-md-12">
+                        <div class="justify-content-start">
+                            <h6 class="text-center"><img src="assets/img/warranty.png" style="width:10%">Certified</h6>
+                                <p>Taksar General Trading L.L.C is an authorized dealer of Motorola solutions and equipment.</p>
+                            <img src="assets/img/goldcard.webp" class="card-imgg border-box-1">    
+                        </div>
+                    </div>    
+                </div>
+        </div>
+    </footer>
+
+
+    <!-- all plugins here -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/fontawesome.min.js"></script>
+    <script src="assets/js/magnific.min.js"></script>
+    <script src="assets/js/nice-select.min.js"></script>
+    <script src="assets/js/slick.min.js"></script>
+    <script src="assets/js/owl.min.js"></script>
+    <script src="assets/js/counter-up.min.js"></script>
+    <script src="assets/js/circle-progress.js"></script>
+    <script src="assets/js/waypoint.min.js"></script>
+    <script src="assets/js/wow.min.js"></script>
+    <!-- main js  -->
+    <script src="assets/js/main.js"></script>
+
+</body>
+</html>

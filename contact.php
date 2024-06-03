@@ -1,87 +1,72 @@
 <?php
+// Include PHPMailer library
 use PHPMailer\PHPMailer\PHPMailer;
-use PHPMailer\PHPMailer\Exception;
 use PHPMailer\PHPMailer\SMTP;
+use PHPMailer\PHPMailer\Exception;
 
-require 'vendor/autoload.php';
+require 'vendor/autoload.php'; // Include autoloader
 
-$message = '';
-$messageClass = '';
-
+// Check if the form is submitted
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    $queryType = $_POST['queryType'] ?? '';
-    $help = $_POST['help'] ?? '';
-    $name = $_POST['name'] ?? '';
-    $email = $_POST['email'] ?? '';
-    $phone = $_POST['phone'] ?? '';
-    $country = $_POST['country'] ?? '';
-    $website = $_POST['website'] ?? '';
-    $fax = $_POST['fax'] ?? '';
+    
+    // Get form data
+    $queryType = $_POST['queryType'];
+    $help = $_POST['help'];
+    $name = $_POST['name'];
+    $email = $_POST['email'];
+    $phone = $_POST['phone'];
+    $country = isset($_POST['country']) ? $_POST['country'] : ''; // Check if country is set
+    $website = isset($_POST['website']) ? $_POST['website'] : ''; // Check if website is set
+    $fax = isset($_POST['fax']) ? $_POST['fax'] : ''; // Check if fax is set
 
-    if (empty($name) || empty($phone) || empty($queryType)) {
-        $message = "Name, phone, and query type are required fields.";
-        $messageClass = 'alert-danger';
+    // Create a PHPMailer instance
+    $mail = new PHPMailer();
+
+    // SMTP configuration
+    $mail->isSMTP();
+    $mail->CharSet = "UTF-8";
+    $mail->SMTPAuth = true;
+    $mail->SMTPSecure = 'tls';
+    $mail->Host = 'smtp.gmail.com';
+    $mail->Port = 587;
+    $mail->Username = 'shafeeqlm11@gmail.com'; // Your email address
+    $mail->Password = 'joao fjqi ouwy ajao'; // Your email password
+
+    // Email content
+    $mail->setFrom($email, $name);
+    $mail->addAddress('shafeeqlm11@gmail.com'); // Change this to the recipient's email address
+    $mail->Subject = 'New Contact Form Submission';
+    $mail->isHTML(true);
+    $mail->Body = "
+    <html>
+    <head>
+    <title>New Contact Form Submission</title>
+    </head>
+    <body>
+    <p>Type of Query: $queryType</p>
+    <p>How can we help you? $help</p>
+    <p>Name: $name</p>
+    <p>Email: $email</p>
+    <p>Phone: $phone</p>
+    <p>Country: $country</p>
+    <p>Website: $website</p>
+    <p>Fax: $fax</p>
+    </body>
+    </html>
+    ";
+
+    // Attempt to send email
+    if ($mail->send()) {
+        // Email sent successfully
+        $message = 'Thank you! Your message has been sent.';
     } else {
-        $email = filter_var($email, FILTER_SANITIZE_EMAIL);
-        if (!empty($email) && !filter_var($email, FILTER_VALIDATE_EMAIL)) {
-            $message = "Invalid email format.";
-            $messageClass = 'alert-danger';
-        } else {
-            try {
-                $mail = new PHPMailer(true);
-                
-                $mail->isSMTP(); // Set mailer to use SMTP
-                $mail->CharSet = "utf-8"; // Set charset to utf8
-                $mail->SMTPAuth = true; // Enable SMTP authentication
-                $mail->SMTPSecure = 'tls'; // Enable TLS encryption, `ssl` also accepted
-
-                $mail->Host = 'smtp.gmail.com'; // Specify main and backup SMTP servers
-                $mail->Port = 587; // TCP port to connect to
-                $mail->SMTPOptions = array(
-                    'ssl' => array(
-                        'verify_peer' => false,
-                        'verify_peer_name' => false,
-                        'allow_self_signed' => true
-                    )
-                );
-
-                $mail->Username = 'shafeeqlm11@gmail.com'; // SMTP username
-                $mail->Password = 'umta mvsg eahs djmh'; // SMTP password
-
-                $mail->setFrom($email,$name); // Your application NAME and EMAIL
-                $mail->addAddress('shafeeqlm11@gmail.com'); // Target email
-                $mail->Subject = 'New Query from ' . $name; // Message subject
-                $mail->isHTML(true); // Set email format to HTML
-
-                // Compose email body
-                $emailBody = "<p><strong>Name:</strong> {$name}</p>
-                              <p><strong>Email:</strong> {$email}</p>
-                              <p><strong>Phone:</strong> {$phone}</p>
-                              <p><strong>Country:</strong> {$country}</p>
-                              <p><strong>Website:</strong> {$website}</p>
-                              <p><strong>Fax:</strong> {$fax}</p>
-                              <p><strong>Query Type:</strong> {$queryType}</p>
-                              <p><strong>Help:</strong> {$help}</p>";
-
-                $mail->Body = $emailBody;
-
-                if ($mail->send()) {
-                    $message = "Your query has been sent successfully.";
-                    $messageClass = 'alert-success';
-                } else {
-                    $message = "There was an error sending your query.";
-                    $messageClass = 'alert-danger';
-                }
-            } catch (Exception $e) {
-                $message = "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
-                $messageClass = 'alert-danger';
-            }
-        }
+        // Email sending failed
+        $message = 'An error occurred. Please try again later.';
     }
+    echo $message; // Display the message
+
+} else {
+    // If this page is accessed directly, return an error
+    echo 'Direct access not allowed.';
 }
 ?>
-
-<div class="alert <?php echo htmlspecialchars($messageClass); ?>">
-    <?php echo htmlspecialchars($message); ?>
-</div>
-

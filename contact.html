@@ -111,7 +111,7 @@
                 </div>
                 <div class="col-lg-8">
                     <div class="contact-page-inner ps-xl-5">
-                     <form action="contact.php" method="post">
+                     <form id="contactForm" method="post">
                         <div class="row">
                                 <div class="col-md-12">
                                     <div class="single-input-inner style-bg">
@@ -173,8 +173,30 @@
                                 <div class="col-12">
                                     <button class="btn btn-base border-radius-5 float-end">Submit</button>
                                 </div>
-                        </div>
-                    </form>
+                                <p id="message"></p>
+                                <script>
+                                    document.getElementById('contactForm').addEventListener('submit', function(event) {
+                                        event.preventDefault();
+                                        
+                                        const formData = new FormData(this);
+                                        const messageElement = document.getElementById('message');
+                                        
+                                        fetch('contact.php', {
+                                            method: 'POST',
+                                            body: formData
+                                        })
+                                        .then(response => response.text()) // Parse the response as text
+                                        .then(data => {
+                                            messageElement.innerText = data; // Display the message in the designated element
+                                        })
+                                        .catch(error => {
+                                            messageElement.innerText = 'Error occurred. Please try again later.';
+                                        });
+                                    });
+                                </script>
+
+                            </div>
+                        </form>
                     </div>
                 </div>
             </div>

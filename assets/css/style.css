@@ -18,6 +18,15 @@
   font-size: 12px;
 }
 
+.navbar-top ul form input:focus:hover
+{
+  border: 1px solid #e20613;
+}
+
+#message {
+    margin-top: 10px;
+    color: #333;
+}
 
 .popup-content
 {
@@ -2219,6 +2228,10 @@ ul {
   margin-right: 5px;
   color: #000;
 }
+.navbar-top ul li svg:hover {
+  color: #e20613;
+  transition: all 0.3s ease 0s;
+}
 .navbar-top ul li:last-child {
   margin-right: 0 !important;
   padding-right: 0;
@@ -2232,7 +2245,6 @@ ul {
 }
 .navbar-top ul li a:hover {
   color: #e20613;
-  background: #e20613;
   transition: all 0.3s ease 0s;
    box-shadow: 0 5px 25px rgba(93, 70, 232, 0.15);
 }
@@ -5931,12 +5943,13 @@ ul {
 .widget_search .search-form input {
   width: 100%;
   border: 0;
-  height: 55px;
+  height: 50px;
   padding: 0 60px 0 22px;
+  font-size: 12px;
 }
 
-.widget_search .search-form input:focus {
-  border: 0;
+.widget_search .search-form input:focus:hover {
+  border: 1px solid #e20613;
   outline: 0;
 }
 
@@ -5944,7 +5957,7 @@ ul {
   position: absolute;
   right: 0;
   border: 0;
-  background: var(--main-color-one);
+  background: #e20613;
   cursor: pointer;
   padding: 0 22px;
   top: 0;
@@ -6474,7 +6487,8 @@ ul {
     blog style
 ------------------------------------------------*/
 .single-blog-inner {
-  margin-bottom: 50px;
+  margin-bottom: 20px;
+  padding: 20px;
   overflow: hidden;
   -webkit-transition: 0.4s;
   transition: 0.4s;
