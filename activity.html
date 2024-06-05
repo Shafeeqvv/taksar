@@ -15,6 +15,40 @@
     <link rel="stylesheet" href="assets/css/responsive.css">
     <link rel=icon href="assets/img/favicon.png" sizes="10x10" type="image/png">
 
+<style type="text/css">
+
+    /* Initially hide all content divs */
+.blog-details-page-content {
+    display: none;
+}
+
+/* Show content div when 'show' class is added */
+.blog-details-page-content.show {
+    display: block;
+    transition: display 0.3s ease-in-out;
+}
+
+/* Styles for angle icons */
+.fa-angle-right {
+    display: inline;
+}
+
+.fa-angle-down {
+    display: none;
+}
+
+/* Toggle display when active */
+.active .fa-angle-right {
+    display: none;
+}
+
+.active .fa-angle-down {
+    display: inline;
+}
+
+</style>
+
+
 </head>
 <body>  
     <div class="body-overlay" id="body-overlay"></div>
@@ -101,86 +135,77 @@
                     <div class="td-sidebar course-sidebar mt-0">
                         <div class="widget widget_catagory">
                             <ul class="catagory-items">
-                                <li><a href="#" id="product-link"><span><i class="fa fa-angle-right"></i></span> Product Sales</a></li>
-                                <li><a href="#" id="consultation-link"><span><i class="fa fa-angle-right"></i></span> Consultation and Custom Solutions</a></li>
-                                <li><a href="#" id="installation-link"><span><i class="fa fa-angle-right"></i></span> Installation and Setup</a></li>
-                                <li><a href="#" id="maintenance-link"><span><i class="fa fa-angle-right"></i></span> Maintenance and Support</a></li>
-                                <li><a href="#" id="research-link"><span><i class="fa fa-angle-right"></i></span> Research and Feedback</a></li>
+
+                                <li><a href="#" id="product-link"><span><i class="fa fa-angle-right right" ></i><i class="fa fa-angle-down down"></i></span> Product Sales</a></li>
+                                <div class="blog-details-page-content"  id="product">
+                                    <div class="single-blog-inner mb-0">
+                                        <div class="details p-0">
+                                            <h2 class="mb-3">Product Sales</h2>
+                                            <p class="mb-4">We offer a wide selection of cutting-edge communication devices and systems, including portable radios, mobile radios, and the latest digital two-way radios like MOTOTRBO from Motorola Solutions. Our products are designed to enhance connectivity and performance, catering to business-critical needs across various industries.</p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <li><a href="#" id="consultation-link"><span><i class="fa fa-angle-right right" ></i><i class="fa fa-angle-down down"></i></span> Consultation and Custom Solutions</a></li>
+                                <div class="blog-details-page-content"  id="consultation">
+                                    <div class="single-blog-inner mb-0">
+                                        <div class="details p-0">
+                                            <h2 class="mb-3">Consultation and Custom Solutions</h2>
+                                            <p class="mb-4">Understanding that every business has unique requirements, we provide personalized consultation services. Our experts work closely with you to develop customized communication solutions that align with your specific needs and operational goals.</p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <li><a href="#" id="installation-link"><span><i class="fa fa-angle-right right" ></i><i class="fa fa-angle-down down"></i></span> Installation and Setup</a></li>
+                                <div class="blog-details-page-content"  id="installation">
+                                    <div class="single-blog-inner mb-0">
+                                        <div class="details p-0">
+                                            <h2 class="mb-3">Installation and Setup</h2>
+                                            <p class="mb-4">Our professional installation services ensure that your communication systems are set up correctly and efficiently. We handle everything from initial setup to final testing, ensuring seamless integration with your existing infrastructure.</p>
+                                        </div>
+                                    </div>
+                                </div>
+
                             </ul>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4" >
-                    <div class="blog-details-page-content" id="product-content">
-                        <div class="single-blog-inner mb-0">
-                            <div class="details p-0">
-                                <h2 class="mb-3">Product Sales</h2>
-                                <p class="mb-4">We offer a wide selection of cutting-edge communication devices and systems, including portable radios, mobile radios, and the latest digital two-way radios like MOTOTRBO from Motorola Solutions. Our products are designed to enhance connectivity and performance, catering to business-critical needs across various industries.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="blog-details-page-content" id="consultation-content" style="display: none;">
-                        <div class="single-blog-inner mb-0">
-                            <div class="details p-0">
-                                <h2 class="mb-3">Consultation and Custom Solutions</h2>
-                                <p class="mb-4">Understanding that every business has unique requirements, we provide personalized consultation services. Our experts work closely with you to develop customized communication solutions that align with your specific needs and operational goals.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="blog-details-page-content" id="installation-content" style="display: none;">
-                        <div class="single-blog-inner mb-0">
-                            <div class="details p-0">
-                                <h2 class="mb-3">Installation and Setup</h2>
-                                <p class="mb-4">Our professional installation services ensure that your communication systems are set up correctly and efficiently. We handle everything from initial setup to final testing, ensuring seamless integration with your existing infrastructure.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="blog-details-page-content" id="maintenance-content" style="display: none;">
-                        <div class="single-blog-inner mb-0">
-                            <div class="details p-0">
-                                <h2 class="mb-3">Maintenance and Support</h2>
-                                <p class="mb-4">We offer comprehensive maintenance services to keep your communication systems running smoothly. Our 24/7 support team is always available to assist with any issues, providing troubleshooting, repairs, and regular maintenance to prevent downtime.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="blog-details-page-content" id="research-content" style="display: none;">
-                        <div class="single-blog-inner mb-0">
-                            <div class="details p-0">
-                                <h2 class="mb-3">Research and Feedback</h2>
-                                <p class="mb-4">To continuously improve our offerings, we engage in ongoing research and gather feedback from our clients. This helps us stay ahead of industry trends and ensure that our products and services meet the evolving needs of our customers.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="blog-details-page-content" id="training-content" style="display: none;">
-                        <div class="single-blog-inner mb-0">
-                            <div class="details p-0">
-                                <h2 class="mb-3">Training and Education</h2>
-                                <p class="mb-4">To maximize the effectiveness of your communication solutions, we provide detailed training programs for your team. Our training sessions cover the use, maintenance, and troubleshooting of our products, ensuring that your staff is well-prepared to utilize the equipment efficiently.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="blog-details-page-content" id="upgrades-content" style="display: none;">
-                        <div class="single-blog-inner mb-0">
-                            <div class="details p-0">
-                                <h2 class="mb-3">Upgrades and Replacements</h2>
-                                <p class="mb-4">As technology evolves, staying current is crucial. We offer upgrade and replacement services to keep your systems up-to-date with the latest advancements. Our team will help you transition to new devices and systems with minimal disruption to your operations.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="blog-details-page-content" id="community-content" style="display: none;">
-                        <div class="single-blog-inner mb-0">
-                            <div class="details p-0">
-                                <h2 class="mb-3">Community and Corporate Engagement</h2>
-                                <p class="mb-4">We actively participate in community and corporate initiatives to foster economic growth and social responsibility. By supporting local businesses and engaging in various community projects, we aim to contribute positively to the regions we serve.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="blog-details-page-content" id="events-content" style="display: none;">
-                        <div class="single-blog-inner mb-0">
-                            <div class="details p-0">
-                                <h2 class="mb-3">Events and Demonstrations</h2>
-                                <p class="mb-4">We regularly host events and demonstrations to showcase our products and solutions. These events provide an opportunity for clients to see our products in action, ask questions, and understand how our solutions can benefit their operations.</p>
-                            </div>
+                <div class="col-lg-4 col-12">
+                    <div class="td-sidebar course-sidebar mt-0">
+                        <div class="widget widget_catagory">
+                            <ul class="catagory-items">
+
+                                <li><a href="#" id="maintenance-link"><span><i class="fa fa-angle-right right" ></i><i class="fa fa-angle-down down"></i></span> Maintenance and Support</a></li>
+                                <div class="blog-details-page-content"  id="maintenance">
+                                    <div class="single-blog-inner mb-0">
+                                        <div class="details p-0">
+                                            <h2 class="mb-3">Maintenance and Support</h2>
+                                            <p class="mb-4">We offer comprehensive maintenance services to keep your communication systems running smoothly. Our 24/7 support team is always available to assist with any issues, providing troubleshooting, repairs, and regular maintenance to prevent downtime.</p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <li><a href="#" id="research-link"><span><i class="fa fa-angle-right right" ></i><i class="fa fa-angle-down down"></i></span> Research and Feedback</a></li>
+                                <div class="blog-details-page-content"  id="research">
+                                    <div class="single-blog-inner mb-0">
+                                        <div class="details p-0">
+                                            <h2 class="mb-3">Research and Feedback</h2>
+                                            <p class="mb-4">To continuously improve our offerings, we engage in ongoing research and gather feedback from our clients. This helps us stay ahead of industry trends and ensure that our products and services meet the evolving needs of our customers.</p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <li><a href="#" id="training-link"><span><i class="fa fa-angle-right right" ></i><i class="fa fa-angle-down down"></i></span> Training and Education</a></li>
+                                <div class="blog-details-page-content"  id="training">
+                                    <div class="single-blog-inner mb-0">
+                                        <div class="details p-0">
+                                            <h2 class="mb-3">Training and Education</h2>
+                                            <p class="mb-4">To maximize the effectiveness of your communication solutions, we provide detailed training programs for your team. Our training sessions cover the use, maintenance, and troubleshooting of our products, ensuring that your staff is well-prepared to utilize the equipment efficiently.</p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </ul>
                         </div>
                     </div>
                 </div>
@@ -188,14 +213,41 @@
                     <div class="td-sidebar course-sidebar pe-xl-4 mt-0">
                         <div class="widget widget_catagory">
                             <ul class="catagory-items">
-                                <li><a href="#" id="training-link"><span><i class="fa fa-angle-right"></i></span> Training and Education</a></li>
-                                <li><a href="#" id="upgrades-link"><span><i class="fa fa-angle-right"></i></span> Upgrades and Replacements</a></li>
-                                <li><a href="#" id="community-link"><span><i class="fa fa-angle-right"></i></span> Community and Corporate Engagement</a></li>
-                                <li><a href="#" id="events-link"><span><i class="fa fa-angle-right"></i></span> Events and Demonstrations</a></li>
+
+                                <li><a href="#" id="upgrades-link"><span><i class="fa fa-angle-right right" ></i><i class="fa fa-angle-down down"></i></span> Upgrades and Replacements</a></li>
+                                <div class="blog-details-page-content"  id="upgrades">
+                                    <div class="single-blog-inner mb-0">
+                                        <div class="details p-0">
+                                            <h2 class="mb-3">Upgrades and Replacements</h2>
+                                            <p class="mb-4">As technology evolves, staying current is crucial. We offer upgrade and replacement services to keep your systems up-to-date with the latest advancements. Our team will help you transition to new devices and systems with minimal disruption to your operations.</p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <li><a href="#" id="community-link"><span><i class="fa fa-angle-right right" ></i><i class="fa fa-angle-down down"></i></span> Community and Corporate Engagement</a></li>
+                                <div class="blog-details-page-content"  id="community">
+                                    <div class="single-blog-inner mb-0">
+                                        <div class="details p-0">
+                                            <h2 class="mb-3">Community and Corporate Engagement</h2>
+                                            <p class="mb-4">We actively participate in community and corporate initiatives to foster economic growth and social responsibility. By supporting local businesses and engaging in various community projects, we aim to contribute positively to the regions we serve.</p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <li><a href="#" id="events-link"><span><i class="fa fa-angle-right right" ></i><i class="fa fa-angle-down down"></i></span> Events and Demonstrations</a></li>
+                                <div class="blog-details-page-content"  id="events">
+                                    <div class="single-blog-inner mb-0">
+                                        <div class="details p-0">
+                                            <h2 class="mb-3">Events and Demonstrations</h2>
+                                            <p class="mb-4">We regularly host events and demonstrations to showcase our products and solutions. These events provide an opportunity for clients to see our products in action, ask questions, and understand how our solutions can benefit their operations.</p>
+                                        </div>
+                                    </div>
+                                </div>
+
                             </ul>
                         </div>
                     </div>
-                </div>
+                </div>                
                 <p style="font-size: 12px;text-align: justify;" class="mb-5 mt-2">
                     At Taksar, our activities are designed to provide you with reliable, high-quality communication solutions that empower your business and enhance your operational efficiency.<br><br><b> Thank you for choosing Taksar as your trusted partner in connectivity and communication</b>.
                 </p>
@@ -262,41 +314,48 @@
     <script src="assets/js/main.js"></script>
     <script src="assets/js/indexfilter.js"></script>
     <script src="assets/js/filter.js"></script>
-    <script type="text/javascript">
-        document.addEventListener("DOMContentLoaded", function() {
-            // Get all link elements
-            var links = document.querySelectorAll(".catagory-items a");
 
-            // Get all content divs including the product content
-            var contents = document.querySelectorAll(".blog-details-page-content");
+    <script>
+       document.addEventListener('DOMContentLoaded', function () {
+            const links = document.querySelectorAll('.catagory-items li a');
+            
+            links.forEach(link => {
+                link.addEventListener('click', function (event) {
+                    event.preventDefault();
 
-            // Hide all content divs except the product content
-            for (var i = 0; i < contents.length; i++) {
-                if (contents[i].id !== "product-content") {
-                    contents[i].style.display = "none";
-                }
-            }
+                    // Check if the clicked link is already active
+                    if (this.classList.contains('active')) {
+                        // Remove the active class from the link
+                        this.classList.remove('active');
+                        
+                        // Hide the corresponding content
+                        const contentId = this.id.replace('-link', '');
+                        const content = document.getElementById(contentId);
+                        if (content) {
+                            content.classList.remove('show');
+                        }
+                    } else {
+                        // Hide all contents
+                        const contents = document.querySelectorAll('.blog-details-page-content');
+                        contents.forEach(content => content.classList.remove('show'));
 
-            // Add click event listeners to each link
-            links.forEach(function(link) {
-                link.addEventListener("click", function(event) {
-                    event.preventDefault(); // Prevent default link behavior
+                        // Remove active class from all links
+                        links.forEach(l => l.classList.remove('active'));
 
-                    
-                    // Hide all content divs
-                    contents.forEach(function(content) {
-                        content.style.display = "none";
-                    });
+                        // Add active class to the clicked link
+                        this.classList.add('active');
 
-                    // Get the id of the clicked link and show the corresponding content
-                    var targetId = link.getAttribute("id").replace("-link", "-content");
-                    var targetContent = document.getElementById(targetId);
-                    if (targetContent) {
-                        targetContent.style.display = "block";
+                        // Show the corresponding content
+                        const contentId = this.id.replace('-link', '');
+                        const content = document.getElementById(contentId);
+                        if (content) {
+                            content.classList.add('show');
+                        }
                     }
                 });
             });
         });
+
     </script>
 
 </body>
