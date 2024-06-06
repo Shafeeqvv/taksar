@@ -2148,7 +2148,7 @@ ul {
   color: var(--main-color-one);
 }
 .section-title .content {
-  margin-top: 17px;
+  margin-top: 13px;
   margin-bottom: 0;
   font-size: 12px;
   text-align: justify;
@@ -6570,7 +6570,7 @@ ul {
   color: var(--main-color-one);
 }
 .single-blog-inner .details .title {
-  margin-bottom: 17px;
+  margin-bottom: 12px;
 }
 .single-blog-inner .details p {
   margin-bottom: 12px;
