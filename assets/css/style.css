@@ -7352,12 +7352,18 @@ padding: 20px;
   padding: 23px 0;
   position: relative;
   z-index: 2;
-  background: rgba(85, 109, 124);
+  background: #262A2A;
 }
 
 .footer-bottom a {
   margin-right: 10px;
   color: #fff;
+  font-size: 12px;
+}
+
+.footer-bottom a:hover {
+  color: #e20613;
+  font-size: 13px;
 }
 .footer-bottom a:last-child {
   margin-right: 0;
@@ -7705,4 +7711,17 @@ font-size: 20px;
 .team-blog-area.team-details-page span
 {
   font-size: 12px;
+}
+
+
+.faq-area p
+{
+  font-size: 12px;
+  text-align: justify;
+}
+
+.faq-area h6
+{
+  margin-bottom: 12px;
+  color: #e20613;
 }
