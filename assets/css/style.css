@@ -2280,6 +2280,10 @@ ul {
 .navbar-top .topbar-right li a svg {
   margin-right: 0;
 }
+.navbar-top .topbar-right li a svg:hover {
+  margin-right: 0;
+  font-size: 17px;
+}
 .navbar-top .topbar-right li a:last-child {
   margin-right: 0;
 }
@@ -2370,10 +2374,11 @@ ul {
 .navbar-area .nav-container .navbar-collapse .navbar-nav li a {
   color: #fff;
   font-weight: 100;
-  font-size: 10px;
+  font-size: 12px;
 }
 .navbar-area .nav-container .navbar-collapse .navbar-nav li:hover a {
   color: #000;
+  font-size: 13px;
 }
 .navbar-area .nav-container .navbar-collapse .navbar-nav li + li {
   margin-left: 0;
@@ -3081,7 +3086,7 @@ ul {
     text-align: left;
   }
   .navbar-collapse {
-    background: #d3d3d3;
+    background: #2a2a2a;
     margin-top: 0px;
     width: 100%;
   }

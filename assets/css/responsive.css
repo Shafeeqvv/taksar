@@ -143,6 +143,7 @@
 	    padding-right: 0;
 	} 
 }
+
 @media all and (max-width: 991px) {
 	.navbar-area .nav-container .navbar-collapse .navbar-nav {
 	    padding-left: 0;
@@ -164,7 +165,12 @@
 	    display: none;
 	}
 	.navbar-area .nav-container .navbar-collapse .navbar-nav li a {
-	    font-size: 12px;
+	    font-size: 13px;
+	    color: #fff;
+	}
+	.navbar-area .nav-container .navbar-collapse .navbar-nav li a:hover {
+	    font-size: 14px;
+	    color: #e20613;
 	}
 	.navbar-area .nav-container.navbar-bg {
 	    padding-left: 15px;
